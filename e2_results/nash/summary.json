@@ -1,0 +1,175 @@
+{
+  "algo": "nash",
+  "n_seeds": 10,
+  "episodes": 1000,
+  "gini_mean": 0.1470810949922261,
+  "gini_std": 0.13439480626320824,
+  "jain_mean": 0.8891083233748314,
+  "jain_std": 0.1417377335387744,
+  "total_reward_mean": 2618.898,
+  "total_reward_std": 20.348589041995066,
+  "task_balance_mean": 0.5163600867146194,
+  "per_seed": [
+    {
+      "gini": 0.12100956115581733,
+      "jain": 0.9446677353158149,
+      "total_reward": 2641.94,
+      "reward_per_agent": [
+        1640.67,
+        1001.27
+      ],
+      "task_balance": 0.5129174543163202,
+      "task_counts": [
+        126,
+        65
+      ],
+      "mean_collisions": 5.55,
+      "seed": 0
+    },
+    {
+      "gini": 0.07011851772403066,
+      "jain": 0.9807128825587959,
+      "total_reward": 2610.58,
+      "reward_per_agent": [
+        1488.34,
+        1122.24
+      ],
+      "task_balance": 0.6570428696412948,
+      "task_counts": [
+        114,
+        75
+      ],
+      "mean_collisions": 8.66,
+      "seed": 1
+    },
+    {
+      "gini": 0.022619029269871582,
+      "jain": 0.9979576975945442,
+      "total_reward": 2595.16,
+      "reward_per_agent": [
+        1356.28,
+        1238.88
+      ],
+      "task_balance": 0.846131215063254,
+      "task_counts": [
+        101,
+        86
+      ],
+      "mean_collisions": 9.76,
+      "seed": 2
+    },
+    {
+      "gini": 0.03125943005702528,
+      "jain": 0.9961066098653606,
+      "total_reward": 2584.8199999999997,
+      "reward_per_agent": [
+        1211.61,
+        1373.21
+      ],
+      "task_balance": 0.8853151070459343,
+      "task_counts": [
+        88,
+        99
+      ],
+      "mean_collisions": 10.03,
+      "seed": 3
+    },
+    {
+      "gini": 0.029447314327946846,
+      "jain": 0.9965434121575566,
+      "total_reward": 2597.86,
+      "reward_per_agent": [
+        1375.43,
+        1222.43
+      ],
+      "task_balance": 0.8241385985288425,
+      "task_counts": [
+        103,
+        85
+      ],
+      "mean_collisions": 9.43,
+      "seed": 4
+    },
+    {
+      "gini": 0.35358126302657805,
+      "jain": 0.6666316292842437,
+      "total_reward": 2629.24,
+      "reward_per_agent": [
+        2244.27,
+        384.97
+      ],
+      "task_balance": 0.030756756756756758,
+      "task_counts": [
+        185,
+        5
+      ],
+      "mean_collisions": 7.09,
+      "seed": 5
+    },
+    {
+      "gini": 0.3504063676979613,
+      "jain": 0.6706285208542596,
+      "total_reward": 2623.2400000000002,
+      "reward_per_agent": [
+        2230.82,
+        392.42
+      ],
+      "task_balance": 0.036466554182768195,
+      "task_counts": [
+        183,
+        6
+      ],
+      "mean_collisions": 7.2,
+      "seed": 6
+    },
+    {
+      "gini": 0.08787292922400393,
+      "jain": 0.9700387932493828,
+      "total_reward": 2637.9,
+      "reward_per_agent": [
+        1550.75,
+        1087.15
+      ],
+      "task_balance": 0.6174734356552538,
+      "task_counts": [
+        118,
+        73
+      ],
+      "mean_collisions": 6.09,
+      "seed": 7
+    },
+    {
+      "gini": 0.33953916276655033,
+      "jain": 0.6843936614609134,
+      "total_reward": 2619.58,
+      "reward_per_agent": [
+        2199.24,
+        420.34
+      ],
+      "task_balance": 0.051069474382357816,
+      "task_counts": [
+        180,
+        9
+      ],
+      "mean_collisions": 7.76,
+      "seed": 8
+    },
+    {
+      "gini": 0.06495737467247592,
+      "jain": 0.9834022914074413,
+      "total_reward": 2648.66,
+      "reward_per_agent": [
+        1496.38,
+        1152.28
+      ],
+      "task_balance": 0.7022894015734111,
+      "task_counts": [
+        113,
+        79
+      ],
+      "mean_collisions": 5.16,
+      "seed": 9
+    }
+  ],
+  "elapsed_min": 58.9
+}

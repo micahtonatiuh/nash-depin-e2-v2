@@ -1,0 +1,147 @@
+{
+  "experiment": "E2_convergence_validation",
+  "n_seeds": 10,
+  "n_estable": 10,
+  "n_oscilante": 0,
+  "high_gini_seeds": [
+    {
+      "seed": 5,
+      "gini": 0.3536,
+      "verdict": "estable"
+    },
+    {
+      "seed": 6,
+      "gini": 0.3504,
+      "verdict": "estable"
+    },
+    {
+      "seed": 8,
+      "gini": 0.3395,
+      "verdict": "estable"
+    }
+  ],
+  "interpretation": "Semillas de Gini alto ESTABLES \u2192 equilibrios-de-monopolio (hallazgo real). Semillas de Gini alto OSCILANTES \u2192 no-convergidas (artefacto, re-interpretar bimodalidad).",
+  "results": [
+    {
+      "seed": 0,
+      "gini_windows": {
+        "50": 0.1397,
+        "100": 0.121,
+        "200": 0.1056
+      },
+      "gini_official_eval": 0.121,
+      "window_spread": 0.0342,
+      "verdict": "estable",
+      "mean_collisions": 5.55
+    },
+    {
+      "seed": 1,
+      "gini_windows": {
+        "50": 0.0563,
+        "100": 0.0701,
+        "200": 0.0527
+      },
+      "gini_official_eval": 0.0701,
+      "window_spread": 0.0174,
+      "verdict": "estable",
+      "mean_collisions": 8.66
+    },
+    {
+      "seed": 2,
+      "gini_windows": {
+        "50": 0.0112,
+        "100": 0.0226,
+        "200": 0.0048
+      },
+      "gini_official_eval": 0.0226,
+      "window_spread": 0.0178,
+      "verdict": "estable",
+      "mean_collisions": 9.76
+    },
+    {
+      "seed": 3,
+      "gini_windows": {
+        "50": 0.0109,
+        "100": 0.0313,
+        "200": 0.0423
+      },
+      "gini_official_eval": 0.0313,
+      "window_spread": 0.0315,
+      "verdict": "estable",
+      "mean_collisions": 10.03
+    },
+    {
+      "seed": 4,
+      "gini_windows": {
+        "50": 0.0244,
+        "100": 0.0294,
+        "200": 0.027
+      },
+      "gini_official_eval": 0.0294,
+      "window_spread": 0.0051,
+      "verdict": "estable",
+      "mean_collisions": 9.43
+    },
+    {
+      "seed": 5,
+      "gini_windows": {
+        "50": 0.3535,
+        "100": 0.3536,
+        "200": 0.3511
+      },
+      "gini_official_eval": 0.3536,
+      "window_spread": 0.0025,
+      "verdict": "estable",
+      "mean_collisions": 7.09
+    },
+    {
+      "seed": 6,
+      "gini_windows": {
+        "50": 0.3396,
+        "100": 0.3504,
+        "200": 0.3448
+      },
+      "gini_official_eval": 0.3504,
+      "window_spread": 0.0108,
+      "verdict": "estable",
+      "mean_collisions": 7.2
+    },
+    {
+      "seed": 7,
+      "gini_windows": {
+        "50": 0.0766,
+        "100": 0.0879,
+        "200": 0.0804
+      },
+      "gini_official_eval": 0.0879,
+      "window_spread": 0.0112,
+      "verdict": "estable",
+      "mean_collisions": 6.09
+    },
+    {
+      "seed": 8,
+      "gini_windows": {
+        "50": 0.3225,
+        "100": 0.3395,
+        "200": 0.3342
+      },
+      "gini_official_eval": 0.3395,
+      "window_spread": 0.0171,
+      "verdict": "estable",
+      "mean_collisions": 7.76
+    },
+    {
+      "seed": 9,
+      "gini_windows": {
+        "50": 0.0807,
+        "100": 0.065,
+        "200": 0.0888
+      },
+      "gini_official_eval": 0.065,
+      "window_spread": 0.0238,
+      "verdict": "estable",
+      "mean_collisions": 5.16
+    }
+  ],
+  "elapsed_min": 57.8
+}

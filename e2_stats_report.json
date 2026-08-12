@@ -1,0 +1,121 @@
+{
+  "fair_threshold": 0.15,
+  "gini_descriptive": {
+    "nash": {
+      "n": 10,
+      "median": 0.079,
+      "iqr": [
+        0.0397,
+        0.2849
+      ],
+      "mean": 0.1471,
+      "std": 0.1417,
+      "min": 0.0226,
+      "max": 0.3536,
+      "n_fair": 7
+    },
+    "qmix": {
+      "n": 10,
+      "median": 0.3717,
+      "iqr": [
+        0.3707,
+        0.3741
+      ],
+      "mean": 0.346,
+      "std": 0.0576,
+      "min": 0.2325,
+      "max": 0.3771,
+      "n_fair": 0
+    },
+    "vdn": {
+      "n": 10,
+      "median": 0.3692,
+      "iqr": [
+        0.3655,
+        0.373
+      ],
+      "mean": 0.3665,
+      "std": 0.0093,
+      "min": 0.3493,
+      "max": 0.3752,
+      "n_fair": 0
+    }
+  },
+  "jain_descriptive": {
+    "nash": {
+      "n": 10,
+      "median": 0.9754,
+      "iqr": [
+        0.7495,
+        0.9929
+      ],
+      "mean": 0.8891,
+      "std": 0.1494,
+      "min": 0.6666,
+      "max": 0.998,
+      "n_fair": 0
+    },
+    "qmix": {
+      "n": 10,
+      "median": 0.644,
+      "iqr": [
+        0.6411,
+        0.6454
+      ],
+      "mean": 0.677,
+      "std": 0.0737,
+      "min": 0.6375,
+      "max": 0.8222,
+      "n_fair": 0
+    },
+    "vdn": {
+      "n": 10,
+      "median": 0.6472,
+      "iqr": [
+        0.6424,
+        0.6518
+      ],
+      "mean": 0.6506,
+      "std": 0.0116,
+      "min": 0.6398,
+      "max": 0.672,
+      "n_fair": 0
+    }
+  },
+  "comparisons": {
+    "nash_vs_qmix_gini": {
+      "test": "Mann-Whitney U (one-sided: nash < baseline)",
+      "U": 6.0,
+      "p_raw": 0.0005039881201883722,
+      "cliffs_delta": -0.88,
+      "magnitude": "large",
+      "p_holm": 0.0005039881201883722,
+      "significant_0.05": true
+    },
+    "nash_vs_vdn_gini": {
+      "test": "Mann-Whitney U (one-sided: nash < baseline)",
+      "U": 3.0,
+      "p_raw": 0.00021981937631328227,
+      "cliffs_delta": -0.94,
+      "magnitude": "large",
+      "p_holm": 0.00043963875262656454,
+      "significant_0.05": true
+    }
+  },
+  "nash_mean_leave_one_out": {
+    "values": [
+      0.15,
+      0.1556,
+      0.1609,
+      0.16,
+      0.1602,
+      0.1241,
+      0.1245,
+      0.1537,
+      0.1257,
+      0.1562
+    ],
+    "all_below_threshold": false,
+    "note": "Mean is fragile w.r.t. the threshold; the MEDIAN is reported as primary."
+  }
+}

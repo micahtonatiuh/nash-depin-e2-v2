@@ -1,0 +1,27 @@
+{
+  "gini_means": {
+    "nash": 0.1470810949922261,
+    "qmix": 0.34604466868751194,
+    "vdn": 0.36648034740278035
+  },
+  "gini_stds": {
+    "nash": 0.13439480626320824,
+    "qmix": 0.05462482143317401,
+    "vdn": 0.008830323706916207
+  },
+  "comparisons": [
+    {
+      "comparison": "Nash vs QMIX",
+      "p_value": 0.000651,
+      "cohens_d": 1.84,
+      "significant": true
+    },
+    {
+      "comparison": "Nash vs VDN",
+      "p_value": 0.000119,
+      "cohens_d": 2.1855,
+      "significant": true
+    }
+  ],
+  "hypothesis_confirmed": true
+}

@@ -1,0 +1,60 @@
+# ============================================================
+# Nash-DePIN — Experiment E2: Nash vs QMIX/VDN (Fairness)
+# ============================================================
+experiment:
+  name: E2_fairness_comparison
+  version: "1.0"
+  paper: "Fair Task Allocation in Physical Multi-Robot Systems via Nash Q-Learning"
+  description: "Compare fairness (Gini) of Nash Q-Learning vs QMIX/VDN in mixed-motive MRTA"
+
+# --- Mixed-motive environment ---
+environment:
+  grid_size: 5            # 5x5 gridworld (same as E1)
+  num_tasks: 1            # Simultaneous tasks (single contested task)
+  n_agents: 2
+  max_steps: 200          # Steps per episode
+  # Mixed reward structure (the core of the experiment):
+  task_reward: 10.0       # +10 task completion    (COMPETITIVE component)
+  collision_penalty: -5.0 # -5 collision           (COOPERATIVE component)
+  cooperation_reward: 2.0 # +2 spatial cooperation (COOPERATIVE component)
+  coop_distance: 1        # Manhattan distance counted as "cooperation"
+
+# --- Shared hyperparameters ---
+learning:
+  alpha: 0.1              # Learning rate (tabular Nash)
+  gamma: 0.95             # Discount factor
+  epsilon_start: 1.0
+  epsilon_min: 0.05
+  epsilon_decay: 0.995
+
+# --- Neural network hyperparameters (QMIX / VDN) ---
+neural:
+  lr: 0.0005              # Adam learning rate
+  hidden_dim: 64          # Hidden units in the agent network
+  mixing_hidden: 32       # Hidden units in the mixing network (QMIX)
+  buffer_size: 5000       # Replay buffer size
+  batch_size: 32
+  target_update: 200      # Steps between target network updates
+
+# --- Experiment control ---
+experiment_control:
+  episodes: 1000          # Episodes per run
+  n_seeds: 10             # Seeds per algorithm (seeds 0-9)
+  seeds_contingency: 20   # Raise to this if the Gini distributions overlap
+  eval_last_n: 100        # Average metrics over the final N episodes
+
+# --- Preregistered hypothesis thresholds ---
+# Note: the paper reports the MEDIAN and non-parametric tests
+# (experiments/analyze_e2_stats_v2.py). These mean-based thresholds are
+# retained as the preregistered criteria for transparency.
+hypothesis:
+  nash_gini_max: 0.15     # Nash expected below this
+  baseline_gini_min: 0.30 # QMIX/VDN expected above this
+  p_value_max: 0.05       # Required statistical significance
+  jain_min_nash: 0.90     # Minimum Jain index expected for Nash
+
+# --- Logging ---
+logging:
+  log_dir: "e2_results/"
+  log_level: "INFO"
+  save_per_seed: true
