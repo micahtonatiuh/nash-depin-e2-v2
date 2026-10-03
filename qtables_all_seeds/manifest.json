@@ -1,0 +1,25 @@
+{
+  "source": "E2 Nash re-entrenado determinista",
+  "checksums": {
+    "seed_0_agent_0.npz": "5c374cd6f897731346af4a940abb6c7d2b78b08f39c497b2861d459e3da7c650",
+    "seed_0_agent_1.npz": "ec98470b977aa4c0f24b9944b6e438cb5d0a3b35e5d903e38afff721897c1029",
+    "seed_1_agent_0.npz": "5be19d222f26aaf05630b7d44757a880c9ea8fddf67e9fa0bf3db13eaa516dff",
+    "seed_1_agent_1.npz": "5d3210da30b39211c4e7ca8515e4f7d6c276071cb2919e2ed85b5135e9e15ab8",
+    "seed_2_agent_0.npz": "56b7aa3ddc605f14ca7cf7280cc2747e06c49592d536de360f0ecc1e93652069",
+    "seed_2_agent_1.npz": "f8d244eeb8eabffe89c7cf207b0ba61e1b3b45d037c508e885060f7e9399a41a",
+    "seed_3_agent_0.npz": "a557858777317b7ab5d8d2424e228976042d35aa74d27534efb9344a93c8dfe9",
+    "seed_3_agent_1.npz": "e8bbe7fe77f19e272a1507c3f0e47b06dd757addfbf4a768a883a7be607e3c9c",
+    "seed_4_agent_0.npz": "a9e00810e97def7ecdf0fc0bcbd4fce58f27057efc10cab08036f974f78509b7",
+    "seed_4_agent_1.npz": "1f05a21127fd4b7db7a6ec9e13278f7e926cea4aac49bad8a0d6dc91c498579a",
+    "seed_5_agent_0.npz": "3a991e588b1bcc54f1c3937650dc9ccf8d0eb1746a2ed205b6aab149ea6c88fb",
+    "seed_5_agent_1.npz": "8132598961b1c1104e0f45d39c799d2022b304d22aabc91a1b20bac88c148107",
+    "seed_6_agent_0.npz": "0200cb864716a8658bd6adfb39dfd53fd9832ff865621ca9b5202f3bf3f86f53",
+    "seed_6_agent_1.npz": "70fab848c9c41be27b8dd1b25969f6aa4746d76fb9e6eca18ec3356caa44e7df",
+    "seed_7_agent_0.npz": "3c358bd62e2561b729c64050412bced2c709281e7ab4438b32736e3fa98105df",
+    "seed_7_agent_1.npz": "08b63d777b0468834c9783011a8755750d26484be77ab6ca2a4663b515c79029",
+    "seed_8_agent_0.npz": "435b76c2cbd97ed9994bc6a9b7cb8fae738e4dc3a6b49c8a7ded45b2790d57ac",
+    "seed_8_agent_1.npz": "9c1b1c3b7e015db51264488fe589a3b5b6ca49978fdc48c3355b7debb4df2b9b",
+    "seed_9_agent_0.npz": "7c418dee12f431c55f59b12c6fc49add8d4c301ef40cb83318dce91c85beea92",
+    "seed_9_agent_1.npz": "82fcb3fe165106bec736a673b9a7ba8be459d3d7faffb5a3c651c38d669b533a"
+  }
+}

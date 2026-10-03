@@ -1,0 +1,23 @@
+{
+ "exploitability_relative": {
+  "states": 5981,
+  "median": 0.0014189554315893885,
+  "p95": 0.001956553043985166,
+  "p99": 0.002558187820220837,
+  "max": 0.23756303822302421
+ },
+ "seed2_match_12": 0.941,
+ "seed2_match_200": 0.871,
+ "seed4_match_12": 0.975,
+ "seed4_match_200": 0.909,
+ "seed0_completions_omitted_by_logging": 0.0266,
+ "seed1_completions_omitted_by_logging": 0.0503,
+ "seed2_completions_omitted_by_logging": 0.0525,
+ "seed3_completions_omitted_by_logging": 0.0465,
+ "seed4_completions_omitted_by_logging": 0.049,
+ "seed5_completions_omitted_by_logging": 0.0372,
+ "seed6_completions_omitted_by_logging": 0.0378,
+ "seed7_completions_omitted_by_logging": 0.0294,
+ "seed8_completions_omitted_by_logging": 0.0366,
+ "seed9_completions_omitted_by_logging": 0.0251
+}

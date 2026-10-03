@@ -1,0 +1,18 @@
+{
+ "criterion": "pooled reward-based Gini < 0.15 over the last 100 training episodes (E2, epsilon=0.05)",
+ "fair": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  7,
+  9
+ ],
+ "monopolistic": [
+  5,
+  6,
+  8
+ ],
+ "note": "v2.1: previous file listed all ten exported seeds under a 'fair' label."
+}
