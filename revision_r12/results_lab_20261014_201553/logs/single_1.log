@@ -1,0 +1,10 @@
+single seed 1: train Gini 0.0377 tasks [106.72, 85.55] | frozen sample_eps Gini 0.0311 tasks [90.6, 107.0] | 107s
+single seed 3: train Gini 0.0848 tasks [117.63, 74.45] | frozen sample_eps Gini 0.1294 tasks [133.0, 64.6] | 113s
+single seed 5: train Gini 0.3504 tasks [183.79, 6.68] | frozen sample_eps Gini 0.3440 tasks [188.8, 8.8] | 113s
+single seed 7: train Gini 0.0974 tasks [121.21, 70.9] | frozen sample_eps Gini 0.1119 tasks [128.3, 69.2] | 113s
+single seed 9: train Gini 0.3409 tasks [181.29, 9.1] | frozen sample_eps Gini 0.3436 tasks [189.0, 8.7] | 113s
+single seed 11: train Gini 0.3368 tasks [180.3, 10.08] | frozen sample_eps Gini 0.3294 tasks [185.4, 12.3] | 113s
+single seed 13: train Gini 0.3607 tasks [186.52, 4.02] | frozen sample_eps Gini 0.3575 tasks [192.6, 5.2] | 113s
+single seed 15: train Gini 0.0018 tasks [96.69, 94.66] | frozen sample_eps Gini 0.0009 tasks [98.7, 99.2] | 112s
+single seed 17: train Gini 0.0882 tasks [118.91, 73.39] | frozen sample_eps Gini 0.1174 tasks [129.8, 67.8] | 112s
+single seed 19: train Gini 0.3343 tasks [179.52, 10.79] | frozen sample_eps Gini 0.3338 tasks [186.1, 11.4] | 111s

@@ -1,0 +1,2 @@
+utilitarian seed 8: train Gini 0.3623 tasks [192.14, 2.0] | frozen sample_eps Gini 0.3489 tasks [192.3, 5.5] | 792s
+utilitarian seed 7: train Gini 0.3515 tasks [189.63, 4.74] | frozen sample_eps Gini 0.3540 tasks [193.6, 4.1] | 782s

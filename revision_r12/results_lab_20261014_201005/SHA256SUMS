@@ -1,0 +1,7 @@
+5c374cd6f897731346af4a940abb6c7d2b78b08f39c497b2861d459e3da7c650  ./egalitarian/qtables/seed_0_agent_0.npz
+ec98470b977aa4c0f24b9944b6e438cb5d0a3b35e5d903e38afff721897c1029  ./egalitarian/qtables/seed_0_agent_1.npz
+9e7bdeb0ea97caca0b689ca9bce30805c8ea17b8fdb870dfb0b608489360deb1  ./egalitarian/seed_0.json
+83ce44f6c41e923e5832eee3c1856f027cb4e32aa317c0ddc43fba36e01a0e42  ./env.txt
+72e61b4e7a59b80f95aecfce62e50d5ff13ceaee49785dd756693dabe2426ab4  ./logs/egalitarian.log
+46979866ce54a2f84509fc351aacc8d7b6b840bf0e166aac50b0374bca92334b  ./summary_r12.json
+7b8bf51b523dd2dffe2ee0e7204d8d6fc058548ef5e322fbee5c893888a3fd3a  ./summary.txt

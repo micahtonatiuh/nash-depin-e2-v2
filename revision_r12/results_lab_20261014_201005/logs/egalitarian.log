@@ -1,0 +1,2 @@
+  egalitarian control: identical to qtables_all_seeds = True
+egalitarian seed 0: train Gini 0.1210 tasks [126.96, 65.12] | frozen sample_eps Gini 0.0798 tasks [120.0, 77.7] | 347s

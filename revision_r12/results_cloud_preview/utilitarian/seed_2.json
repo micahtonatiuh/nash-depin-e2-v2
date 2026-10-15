@@ -1,0 +1,90 @@
+{
+ "variant": "utilitarian",
+ "seed": 2,
+ "episodes": 1000,
+ "train_last100": {
+  "gini": 0.35192293359171206,
+  "jain": 0.6687178450853565,
+  "total_reward": 2683.4,
+  "reward_per_agent": [
+   2286.05,
+   397.35
+  ],
+  "task_balance": 0.02367797947908445,
+  "task_counts": [
+   190,
+   4
+  ],
+  "mean_collisions": 3.45,
+  "mean_tasks": [
+   190.05,
+   4.5
+  ]
+ },
+ "frozen_e2": {
+  "sample_eps": {
+   "gini": 0.3586,
+   "ep_gini_median": 0.368,
+   "tasks_per_ep": [
+    195.2,
+    2.8
+   ],
+   "collisions_per_ep": 3.37,
+   "final_cells": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ]
+   ]
+  },
+  "argmax_eps": {
+   "gini": 0.3537,
+   "ep_gini_median": 0.368,
+   "tasks_per_ep": [
+    193.9,
+    4.1
+   ],
+   "collisions_per_ep": 3.45,
+   "final_cells": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ]
+   ]
+  },
+  "greedy": {
+   "gini": 0.3602,
+   "ep_gini_median": 0.36,
+   "tasks_per_ep": [
+    200.0,
+    0.0
+   ],
+   "collisions_per_ep": 0.0,
+   "final_cells": [
+    [
+     0,
+     0
+    ],
+    [
+     1,
+     0
+    ]
+   ]
+  }
+ },
+ "qtables_sha256": {
+  "seed_2_agent_0.npz": "a25f64c8f8da5db7e0d6cb638a008a8ddba48dce73052f6b3640c60c42e6a513",
+  "seed_2_agent_1.npz": "451f5d68d7b4c3c26c28af7fda7d7ebed845f0a35709b1d5e0bb3358f1d7b021"
+ },
+ "elapsed_s": 708.5,
+ "numpy": "2.2.6",
+ "python": "3.13.16"
+}
