@@ -1,0 +1,2 @@
+env control (E2ref vs MixedMotiveGridWorld, 3 seeds x 5 eps x 200 random steps): PASS
+Nash training control (E2ref seed 0 vs qtables_all_seeds/seed_0): PASS (bit-exact)

@@ -1,0 +1,2050 @@
+{
+ "nearest": {
+  "eps=0.0": {
+   "per_seed": [
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    },
+    {
+     "gini": 0.3602,
+     "ep_gini_median": 0.3602,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      200.0,
+      0.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 7.0
+    }
+   ],
+   "gini_median": 0.3602,
+   "fair_seeds": 0,
+   "n": 20,
+   "total_reward_median": 2776.0,
+   "collisions_median": 0.0,
+   "handovers_median": 0.0,
+   "moves_median": 7.0,
+   "tasks_median": [
+    200.0,
+    0.0
+   ]
+  },
+  "eps=0.05": {
+   "per_seed": [
+    {
+     "gini": 0.3547,
+     "ep_gini_median": 0.3685,
+     "total_reward_per_ep": 2681.7,
+     "tasks_per_ep": [
+      194.1,
+      3.8
+     ],
+     "collisions_per_ep": 3.58,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.7
+    },
+    {
+     "gini": 0.3591,
+     "ep_gini_median": 0.3688,
+     "total_reward_per_ep": 2676.1,
+     "tasks_per_ep": [
+      195.0,
+      2.8
+     ],
+     "collisions_per_ep": 3.83,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.7
+    },
+    {
+     "gini": 0.3566,
+     "ep_gini_median": 0.3689,
+     "total_reward_per_ep": 2683.1,
+     "tasks_per_ep": [
+      194.7,
+      3.4
+     ],
+     "collisions_per_ep": 3.65,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 17.8
+    },
+    {
+     "gini": 0.3346,
+     "ep_gini_median": 0.3687,
+     "total_reward_per_ep": 2675.0,
+     "tasks_per_ep": [
+      188.3,
+      9.3
+     ],
+     "collisions_per_ep": 3.63,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 19.9
+    },
+    {
+     "gini": 0.3621,
+     "ep_gini_median": 0.3685,
+     "total_reward_per_ep": 2677.5,
+     "tasks_per_ep": [
+      195.8,
+      1.9
+     ],
+     "collisions_per_ep": 3.71,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 18.6
+    },
+    {
+     "gini": 0.3555,
+     "ep_gini_median": 0.3687,
+     "total_reward_per_ep": 2674.3,
+     "tasks_per_ep": [
+      194.0,
+      3.8
+     ],
+     "collisions_per_ep": 3.84,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 19.8
+    },
+    {
+     "gini": 0.3543,
+     "ep_gini_median": 0.3684,
+     "total_reward_per_ep": 2679.4,
+     "tasks_per_ep": [
+      193.8,
+      4.0
+     ],
+     "collisions_per_ep": 3.67,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.6
+    },
+    {
+     "gini": 0.3538,
+     "ep_gini_median": 0.3684,
+     "total_reward_per_ep": 2679.5,
+     "tasks_per_ep": [
+      193.8,
+      4.2
+     ],
+     "collisions_per_ep": 3.65,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.9
+    },
+    {
+     "gini": 0.3571,
+     "ep_gini_median": 0.369,
+     "total_reward_per_ep": 2677.2,
+     "tasks_per_ep": [
+      194.5,
+      3.3
+     ],
+     "collisions_per_ep": 3.81,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.6
+    },
+    {
+     "gini": 0.3577,
+     "ep_gini_median": 0.369,
+     "total_reward_per_ep": 2671.8,
+     "tasks_per_ep": [
+      194.4,
+      3.3
+     ],
+     "collisions_per_ep": 4.0,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 19.3
+    },
+    {
+     "gini": 0.3572,
+     "ep_gini_median": 0.3686,
+     "total_reward_per_ep": 2682.9,
+     "tasks_per_ep": [
+      194.8,
+      3.2
+     ],
+     "collisions_per_ep": 3.6,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.4
+    },
+    {
+     "gini": 0.339,
+     "ep_gini_median": 0.369,
+     "total_reward_per_ep": 2677.4,
+     "tasks_per_ep": [
+      189.7,
+      8.2
+     ],
+     "collisions_per_ep": 3.74,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 19.2
+    },
+    {
+     "gini": 0.3512,
+     "ep_gini_median": 0.3689,
+     "total_reward_per_ep": 2681.0,
+     "tasks_per_ep": [
+      193.2,
+      4.8
+     ],
+     "collisions_per_ep": 3.57,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 19.2
+    },
+    {
+     "gini": 0.3577,
+     "ep_gini_median": 0.3692,
+     "total_reward_per_ep": 2676.0,
+     "tasks_per_ep": [
+      194.7,
+      3.2
+     ],
+     "collisions_per_ep": 4.02,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.2
+    },
+    {
+     "gini": 0.3577,
+     "ep_gini_median": 0.3687,
+     "total_reward_per_ep": 2673.5,
+     "tasks_per_ep": [
+      194.6,
+      3.3
+     ],
+     "collisions_per_ep": 4.12,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.6
+    },
+    {
+     "gini": 0.361,
+     "ep_gini_median": 0.3685,
+     "total_reward_per_ep": 2679.1,
+     "tasks_per_ep": [
+      195.7,
+      2.2
+     ],
+     "collisions_per_ep": 3.68,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 18.9
+    },
+    {
+     "gini": 0.3606,
+     "ep_gini_median": 0.3681,
+     "total_reward_per_ep": 2682.8,
+     "tasks_per_ep": [
+      195.7,
+      2.2
+     ],
+     "collisions_per_ep": 3.47,
+     "handovers_per_ep": 0.0,
+     "moves_per_ep": 18.2
+    },
+    {
+     "gini": 0.3538,
+     "ep_gini_median": 0.3687,
+     "total_reward_per_ep": 2672.7,
+     "tasks_per_ep": [
+      193.3,
+      4.2
+     ],
+     "collisions_per_ep": 3.68,
+     "handovers_per_ep": 0.2,
+     "moves_per_ep": 20.3
+    },
+    {
+     "gini": 0.3631,
+     "ep_gini_median": 0.37,
+     "total_reward_per_ep": 2670.8,
+     "tasks_per_ep": [
+      195.8,
+      1.9
+     ],
+     "collisions_per_ep": 4.11,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 19.4
+    },
+    {
+     "gini": 0.3479,
+     "ep_gini_median": 0.369,
+     "total_reward_per_ep": 2673.9,
+     "tasks_per_ep": [
+      191.8,
+      5.8
+     ],
+     "collisions_per_ep": 3.74,
+     "handovers_per_ep": 0.1,
+     "moves_per_ep": 19.7
+    }
+   ],
+   "gini_median": 0.35685,
+   "fair_seeds": 0,
+   "n": 20,
+   "total_reward_median": 2677.3,
+   "collisions_median": 3.6950000000000003,
+   "handovers_median": 0.1,
+   "moves_median": 18.799999999999997,
+   "tasks_median": [
+    194.45,
+    3.3499999999999996
+   ]
+  }
+ },
+ "balanced_l0.01": {
+  "eps=0.0": {
+   "per_seed": [
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    },
+    {
+     "gini": 0.0036,
+     "ep_gini_median": 0.0036,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      101.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 1.0,
+     "moves_per_ep": 9.0
+    }
+   ],
+   "gini_median": 0.0036,
+   "fair_seeds": 20,
+   "n": 20,
+   "total_reward_median": 2776.0,
+   "collisions_median": 0.0,
+   "handovers_median": 1.0,
+   "moves_median": 9.0,
+   "tasks_median": [
+    101.0,
+    99.0
+   ]
+  },
+  "eps=0.05": {
+   "per_seed": [
+    {
+     "gini": 0.0046,
+     "ep_gini_median": 0.0265,
+     "total_reward_per_ep": 2680.0,
+     "tasks_per_ep": [
+      97.7,
+      100.2
+     ],
+     "collisions_per_ep": 3.64,
+     "handovers_per_ep": 1.6,
+     "moves_per_ep": 19.8
+    },
+    {
+     "gini": 0.0231,
+     "ep_gini_median": 0.0246,
+     "total_reward_per_ep": 2680.9,
+     "tasks_per_ep": [
+      92.8,
+      105.2
+     ],
+     "collisions_per_ep": 3.57,
+     "handovers_per_ep": 1.6,
+     "moves_per_ep": 20.2
+    },
+    {
+     "gini": 0.0206,
+     "ep_gini_median": 0.0254,
+     "total_reward_per_ep": 2685.9,
+     "tasks_per_ep": [
+      93.6,
+      104.6
+     ],
+     "collisions_per_ep": 3.48,
+     "handovers_per_ep": 1.5,
+     "moves_per_ep": 19.0
+    },
+    {
+     "gini": 0.0183,
+     "ep_gini_median": 0.0388,
+     "total_reward_per_ep": 2675.8,
+     "tasks_per_ep": [
+      94.0,
+      103.7
+     ],
+     "collisions_per_ep": 3.6,
+     "handovers_per_ep": 1.7,
+     "moves_per_ep": 21.3
+    },
+    {
+     "gini": 0.0201,
+     "ep_gini_median": 0.0222,
+     "total_reward_per_ep": 2685.1,
+     "tasks_per_ep": [
+      93.7,
+      104.4
+     ],
+     "collisions_per_ep": 3.36,
+     "handovers_per_ep": 1.5,
+     "moves_per_ep": 20.2
+    },
+    {
+     "gini": 0.0118,
+     "ep_gini_median": 0.0447,
+     "total_reward_per_ep": 2668.7,
+     "tasks_per_ep": [
+      95.6,
+      101.9
+     ],
+     "collisions_per_ep": 4.12,
+     "handovers_per_ep": 1.6,
+     "moves_per_ep": 20.7
+    },
+    {
+     "gini": 0.0177,
+     "ep_gini_median": 0.0224,
+     "total_reward_per_ep": 2683.1,
+     "tasks_per_ep": [
+      94.2,
+      103.7
+     ],
+     "collisions_per_ep": 3.46,
+     "handovers_per_ep": 1.7,
+     "moves_per_ep": 19.6
+    },
+    {
+     "gini": 0.0109,
+     "ep_gini_median": 0.0207,
+     "total_reward_per_ep": 2674.6,
+     "tasks_per_ep": [
+      96.0,
+      101.8
+     ],
+     "collisions_per_ep": 3.96,
+     "handovers_per_ep": 1.7,
+     "moves_per_ep": 19.9
+    },
+    {
+     "gini": 0.0112,
+     "ep_gini_median": 0.0285,
+     "total_reward_per_ep": 2677.4,
+     "tasks_per_ep": [
+      95.9,
+      101.9
+     ],
+     "collisions_per_ep": 3.83,
+     "handovers_per_ep": 1.7,
+     "moves_per_ep": 19.6
+    },
+    {
+     "gini": 0.0286,
+     "ep_gini_median": 0.0269,
+     "total_reward_per_ep": 2670.0,
+     "tasks_per_ep": [
+      91.3,
+      106.6
+     ],
+     "collisions_per_ep": 4.33,
+     "handovers_per_ep": 1.6,
+     "moves_per_ep": 20.2
+    },
+    {
+     "gini": 0.0151,
+     "ep_gini_median": 0.0288,
+     "total_reward_per_ep": 2681.0,
+     "tasks_per_ep": [
+      94.8,
+      102.9
+     ],
+     "collisions_per_ep": 3.5,
+     "handovers_per_ep": 1.7,
+     "moves_per_ep": 19.6
+    },
+    {
+     "gini": 0.0149,
+     "ep_gini_median": 0.0355,
+     "total_reward_per_ep": 2674.4,
+     "tasks_per_ep": [
+      94.9,
+      102.9
+     ],
+     "collisions_per_ep": 3.91,
+     "handovers_per_ep": 1.6,
+     "moves_per_ep": 20.2
+    },
+    {
+     "gini": 0.0122,
+     "ep_gini_median": 0.0243,
+     "total_reward_per_ep": 2677.2,
+     "tasks_per_ep": [
+      95.6,
+      102.1
+     ],
+     "collisions_per_ep": 3.72,
+     "handovers_per_ep": 1.7,
+     "moves_per_ep": 20.3
+    },
+    {
+     "gini": 0.0096,
+     "ep_gini_median": 0.0142,
+     "total_reward_per_ep": 2679.3,
+     "tasks_per_ep": [
+      96.5,
+      101.6
+     ],
+     "collisions_per_ep": 3.94,
+     "handovers_per_ep": 1.6,
+     "moves_per_ep": 19.6
+    },
+    {
+     "gini": 0.0156,
+     "ep_gini_median": 0.0094,
+     "total_reward_per_ep": 2675.5,
+     "tasks_per_ep": [
+      94.8,
+      103.2
+     ],
+     "collisions_per_ep": 4.02,
+     "handovers_per_ep": 1.5,
+     "moves_per_ep": 19.8
+    },
+    {
+     "gini": 0.0194,
+     "ep_gini_median": 0.0243,
+     "total_reward_per_ep": 2679.4,
+     "tasks_per_ep": [
+      93.8,
+      104.2
+     ],
+     "collisions_per_ep": 3.74,
+     "handovers_per_ep": 1.6,
+     "moves_per_ep": 20.0
+    },
+    {
+     "gini": 0.0102,
+     "ep_gini_median": 0.0114,
+     "total_reward_per_ep": 2681.4,
+     "tasks_per_ep": [
+      96.3,
+      101.7
+     ],
+     "collisions_per_ep": 3.73,
+     "handovers_per_ep": 1.5,
+     "moves_per_ep": 19.0
+    },
+    {
+     "gini": 0.0275,
+     "ep_gini_median": 0.0406,
+     "total_reward_per_ep": 2675.5,
+     "tasks_per_ep": [
+      91.4,
+      106.2
+     ],
+     "collisions_per_ep": 3.52,
+     "handovers_per_ep": 1.7,
+     "moves_per_ep": 21.3
+    },
+    {
+     "gini": 0.0074,
+     "ep_gini_median": 0.0211,
+     "total_reward_per_ep": 2678.0,
+     "tasks_per_ep": [
+      96.8,
+      100.8
+     ],
+     "collisions_per_ep": 3.42,
+     "handovers_per_ep": 1.6,
+     "moves_per_ep": 21.4
+    },
+    {
+     "gini": 0.0257,
+     "ep_gini_median": 0.0516,
+     "total_reward_per_ep": 2675.2,
+     "tasks_per_ep": [
+      92.0,
+      105.7
+     ],
+     "collisions_per_ep": 3.63,
+     "handovers_per_ep": 1.7,
+     "moves_per_ep": 21.0
+    }
+   ],
+   "gini_median": 0.015349999999999999,
+   "fair_seeds": 20,
+   "n": 20,
+   "total_reward_median": 2677.7,
+   "collisions_median": 3.68,
+   "handovers_median": 1.6,
+   "moves_median": 20.1,
+   "tasks_median": [
+    94.8,
+    103.05000000000001
+   ]
+  }
+ },
+ "balanced_l0.1": {
+  "eps=0.0": {
+   "per_seed": [
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    },
+    {
+     "gini": 0.018,
+     "ep_gini_median": 0.018,
+     "total_reward_per_ep": 2776.0,
+     "tasks_per_ep": [
+      95.0,
+      105.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 9.0,
+     "moves_per_ep": 25.0
+    }
+   ],
+   "gini_median": 0.018,
+   "fair_seeds": 20,
+   "n": 20,
+   "total_reward_median": 2776.0,
+   "collisions_median": 0.0,
+   "handovers_median": 9.0,
+   "moves_median": 25.0,
+   "tasks_median": [
+    95.0,
+    105.0
+   ]
+  },
+  "eps=0.05": {
+   "per_seed": [
+    {
+     "gini": 0.0073,
+     "ep_gini_median": 0.0131,
+     "total_reward_per_ep": 2674.2,
+     "tasks_per_ep": [
+      96.9,
+      100.8
+     ],
+     "collisions_per_ep": 4.0,
+     "handovers_per_ep": 9.5,
+     "moves_per_ep": 36.4
+    },
+    {
+     "gini": 0.0046,
+     "ep_gini_median": 0.0113,
+     "total_reward_per_ep": 2669.9,
+     "tasks_per_ep": [
+      97.6,
+      100.1
+     ],
+     "collisions_per_ep": 4.34,
+     "handovers_per_ep": 9.6,
+     "moves_per_ep": 36.3
+    },
+    {
+     "gini": 0.0067,
+     "ep_gini_median": 0.0114,
+     "total_reward_per_ep": 2676.8,
+     "tasks_per_ep": [
+      97.0,
+      100.6
+     ],
+     "collisions_per_ep": 3.79,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 35.7
+    },
+    {
+     "gini": 0.0058,
+     "ep_gini_median": 0.0111,
+     "total_reward_per_ep": 2670.7,
+     "tasks_per_ep": [
+      97.2,
+      100.3
+     ],
+     "collisions_per_ep": 3.88,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 37.6
+    },
+    {
+     "gini": 0.0051,
+     "ep_gini_median": 0.0113,
+     "total_reward_per_ep": 2674.9,
+     "tasks_per_ep": [
+      97.4,
+      100.1
+     ],
+     "collisions_per_ep": 3.7,
+     "handovers_per_ep": 9.8,
+     "moves_per_ep": 36.8
+    },
+    {
+     "gini": 0.0045,
+     "ep_gini_median": 0.0114,
+     "total_reward_per_ep": 2661.8,
+     "tasks_per_ep": [
+      97.4,
+      99.8
+     ],
+     "collisions_per_ep": 4.41,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 37.3
+    },
+    {
+     "gini": 0.0057,
+     "ep_gini_median": 0.0129,
+     "total_reward_per_ep": 2675.2,
+     "tasks_per_ep": [
+      97.2,
+      100.3
+     ],
+     "collisions_per_ep": 3.82,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 36.1
+    },
+    {
+     "gini": 0.0049,
+     "ep_gini_median": 0.0114,
+     "total_reward_per_ep": 2671.3,
+     "tasks_per_ep": [
+      97.4,
+      100.1
+     ],
+     "collisions_per_ep": 4.02,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 36.5
+    },
+    {
+     "gini": 0.0079,
+     "ep_gini_median": 0.013,
+     "total_reward_per_ep": 2678.6,
+     "tasks_per_ep": [
+      96.9,
+      101.1
+     ],
+     "collisions_per_ep": 3.97,
+     "handovers_per_ep": 9.6,
+     "moves_per_ep": 36.1
+    },
+    {
+     "gini": 0.0044,
+     "ep_gini_median": 0.0113,
+     "total_reward_per_ep": 2668.8,
+     "tasks_per_ep": [
+      97.3,
+      99.7
+     ],
+     "collisions_per_ep": 3.79,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 37.4
+    },
+    {
+     "gini": 0.005,
+     "ep_gini_median": 0.013,
+     "total_reward_per_ep": 2677.4,
+     "tasks_per_ep": [
+      97.4,
+      100.1
+     ],
+     "collisions_per_ep": 3.72,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 36.2
+    },
+    {
+     "gini": 0.0053,
+     "ep_gini_median": 0.0103,
+     "total_reward_per_ep": 2673.6,
+     "tasks_per_ep": [
+      97.4,
+      100.2
+     ],
+     "collisions_per_ep": 3.92,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 36.8
+    },
+    {
+     "gini": 0.0062,
+     "ep_gini_median": 0.0114,
+     "total_reward_per_ep": 2674.3,
+     "tasks_per_ep": [
+      97.2,
+      100.5
+     ],
+     "collisions_per_ep": 4.06,
+     "handovers_per_ep": 9.6,
+     "moves_per_ep": 36.3
+    },
+    {
+     "gini": 0.0046,
+     "ep_gini_median": 0.0113,
+     "total_reward_per_ep": 2674.2,
+     "tasks_per_ep": [
+      97.6,
+      100.0
+     ],
+     "collisions_per_ep": 3.99,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 36.2
+    },
+    {
+     "gini": 0.0054,
+     "ep_gini_median": 0.0112,
+     "total_reward_per_ep": 2672.5,
+     "tasks_per_ep": [
+      97.5,
+      100.3
+     ],
+     "collisions_per_ep": 4.1,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 36.7
+    },
+    {
+     "gini": 0.0047,
+     "ep_gini_median": 0.0111,
+     "total_reward_per_ep": 2673.5,
+     "tasks_per_ep": [
+      97.5,
+      100.0
+     ],
+     "collisions_per_ep": 3.86,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 36.4
+    },
+    {
+     "gini": 0.0057,
+     "ep_gini_median": 0.012,
+     "total_reward_per_ep": 2678.3,
+     "tasks_per_ep": [
+      97.4,
+      100.4
+     ],
+     "collisions_per_ep": 3.8,
+     "handovers_per_ep": 9.6,
+     "moves_per_ep": 36.1
+    },
+    {
+     "gini": 0.0038,
+     "ep_gini_median": 0.0112,
+     "total_reward_per_ep": 2665.4,
+     "tasks_per_ep": [
+      97.5,
+      99.5
+     ],
+     "collisions_per_ep": 3.91,
+     "handovers_per_ep": 9.8,
+     "moves_per_ep": 37.9
+    },
+    {
+     "gini": 0.0042,
+     "ep_gini_median": 0.0112,
+     "total_reward_per_ep": 2665.1,
+     "tasks_per_ep": [
+      97.6,
+      99.8
+     ],
+     "collisions_per_ep": 4.34,
+     "handovers_per_ep": 9.7,
+     "moves_per_ep": 37.1
+    },
+    {
+     "gini": 0.005,
+     "ep_gini_median": 0.0131,
+     "total_reward_per_ep": 2670.3,
+     "tasks_per_ep": [
+      97.4,
+      100.0
+     ],
+     "collisions_per_ep": 3.84,
+     "handovers_per_ep": 9.8,
+     "moves_per_ep": 37.8
+    }
+   ],
+   "gini_median": 0.005050000000000001,
+   "fair_seeds": 20,
+   "n": 20,
+   "total_reward_median": 2673.55,
+   "collisions_median": 3.915,
+   "handovers_median": 9.7,
+   "moves_median": 36.45,
+   "tasks_median": [
+    97.4,
+    100.1
+   ]
+  }
+ },
+ "balanced_l1": {
+  "eps=0.0": {
+   "per_seed": [
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    },
+    {
+     "gini": 0.0,
+     "ep_gini_median": 0.0,
+     "total_reward_per_ep": 2760.0,
+     "tasks_per_ep": [
+      99.0,
+      99.0
+     ],
+     "collisions_per_ep": 0.0,
+     "handovers_per_ep": 64.0,
+     "moves_per_ep": 137.0
+    }
+   ],
+   "gini_median": 0.0,
+   "fair_seeds": 20,
+   "n": 20,
+   "total_reward_median": 2760.0,
+   "collisions_median": 0.0,
+   "handovers_median": 64.0,
+   "moves_median": 137.0,
+   "tasks_median": [
+    99.0,
+    99.0
+   ]
+  },
+  "eps=0.05": {
+   "per_seed": [
+    {
+     "gini": 0.0007,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2625.3,
+     "tasks_per_ep": [
+      97.1,
+      96.7
+     ],
+     "collisions_per_ep": 5.42,
+     "handovers_per_ep": 59.8,
+     "moves_per_ep": 140.5
+    },
+    {
+     "gini": 0.0008,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2618.7,
+     "tasks_per_ep": [
+      97.1,
+      96.7
+     ],
+     "collisions_per_ep": 5.87,
+     "handovers_per_ep": 59.7,
+     "moves_per_ep": 140.0
+    },
+    {
+     "gini": 0.0012,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2621.8,
+     "tasks_per_ep": [
+      97.2,
+      96.6
+     ],
+     "collisions_per_ep": 5.69,
+     "handovers_per_ep": 59.6,
+     "moves_per_ep": 139.4
+    },
+    {
+     "gini": 0.0012,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2614.9,
+     "tasks_per_ep": [
+      96.9,
+      96.3
+     ],
+     "collisions_per_ep": 5.6,
+     "handovers_per_ep": 59.6,
+     "moves_per_ep": 141.2
+    },
+    {
+     "gini": 0.0011,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2622.0,
+     "tasks_per_ep": [
+      97.2,
+      96.6
+     ],
+     "collisions_per_ep": 5.55,
+     "handovers_per_ep": 59.7,
+     "moves_per_ep": 140.1
+    },
+    {
+     "gini": 0.0011,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2613.2,
+     "tasks_per_ep": [
+      96.8,
+      96.2
+     ],
+     "collisions_per_ep": 5.65,
+     "handovers_per_ep": 59.3,
+     "moves_per_ep": 141.4
+    },
+    {
+     "gini": 0.0011,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2625.0,
+     "tasks_per_ep": [
+      97.3,
+      96.7
+     ],
+     "collisions_per_ep": 5.58,
+     "handovers_per_ep": 60.0,
+     "moves_per_ep": 139.8
+    },
+    {
+     "gini": 0.0011,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2625.0,
+     "tasks_per_ep": [
+      97.1,
+      96.5
+     ],
+     "collisions_per_ep": 5.19,
+     "handovers_per_ep": 60.0,
+     "moves_per_ep": 140.8
+    },
+    {
+     "gini": 0.0011,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2623.5,
+     "tasks_per_ep": [
+      97.2,
+      96.7
+     ],
+     "collisions_per_ep": 5.56,
+     "handovers_per_ep": 59.6,
+     "moves_per_ep": 140.3
+    },
+    {
+     "gini": 0.0007,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2612.4,
+     "tasks_per_ep": [
+      96.7,
+      96.3
+     ],
+     "collisions_per_ep": 5.67,
+     "handovers_per_ep": 59.5,
+     "moves_per_ep": 141.2
+    },
+    {
+     "gini": 0.0009,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2627.4,
+     "tasks_per_ep": [
+      97.1,
+      96.6
+     ],
+     "collisions_per_ep": 5.25,
+     "handovers_per_ep": 59.9,
+     "moves_per_ep": 140.1
+    },
+    {
+     "gini": 0.0009,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2629.3,
+     "tasks_per_ep": [
+      97.2,
+      96.7
+     ],
+     "collisions_per_ep": 5.12,
+     "handovers_per_ep": 60.0,
+     "moves_per_ep": 140.8
+    },
+    {
+     "gini": 0.0011,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2629.0,
+     "tasks_per_ep": [
+      97.4,
+      96.8
+     ],
+     "collisions_per_ep": 5.4,
+     "handovers_per_ep": 60.1,
+     "moves_per_ep": 140.3
+    },
+    {
+     "gini": 0.0008,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2618.2,
+     "tasks_per_ep": [
+      97.0,
+      96.6
+     ],
+     "collisions_per_ep": 5.81,
+     "handovers_per_ep": 59.6,
+     "moves_per_ep": 139.9
+    },
+    {
+     "gini": 0.0007,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2617.1,
+     "tasks_per_ep": [
+      96.8,
+      96.5
+     ],
+     "collisions_per_ep": 5.62,
+     "handovers_per_ep": 59.6,
+     "moves_per_ep": 140.9
+    },
+    {
+     "gini": 0.0009,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2618.8,
+     "tasks_per_ep": [
+      96.9,
+      96.4
+     ],
+     "collisions_per_ep": 5.5,
+     "handovers_per_ep": 59.6,
+     "moves_per_ep": 140.7
+    },
+    {
+     "gini": 0.0007,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2629.0,
+     "tasks_per_ep": [
+      97.2,
+      96.9
+     ],
+     "collisions_per_ep": 5.34,
+     "handovers_per_ep": 60.0,
+     "moves_per_ep": 140.0
+    },
+    {
+     "gini": 0.0007,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2619.9,
+     "tasks_per_ep": [
+      96.9,
+      96.6
+     ],
+     "collisions_per_ep": 5.35,
+     "handovers_per_ep": 59.6,
+     "moves_per_ep": 141.3
+    },
+    {
+     "gini": 0.0013,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2623.3,
+     "tasks_per_ep": [
+      97.3,
+      96.6
+     ],
+     "collisions_per_ep": 5.48,
+     "handovers_per_ep": 59.7,
+     "moves_per_ep": 141.4
+    },
+    {
+     "gini": 0.0009,
+     "ep_gini_median": 0.0019,
+     "total_reward_per_ep": 2616.0,
+     "tasks_per_ep": [
+      96.7,
+      96.2
+     ],
+     "collisions_per_ep": 5.27,
+     "handovers_per_ep": 59.9,
+     "moves_per_ep": 141.5
+    }
+   ],
+   "gini_median": 0.0009,
+   "fair_seeds": 20,
+   "n": 20,
+   "total_reward_median": 2621.9,
+   "collisions_median": 5.525,
+   "handovers_median": 59.7,
+   "moves_median": 140.6,
+   "tasks_median": [
+    97.1,
+    96.6
+   ]
+  }
+ }
+}

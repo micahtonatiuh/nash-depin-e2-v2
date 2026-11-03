@@ -1,0 +1,8 @@
+--- original_lab
++++ public_v2.1
+@@ -117,4 +117,4 @@
+ 
+     @property
+     def arena_description(self) -> str:
+-        return f'{self.grid_size}x{self.grid_size} mixto | {self.n_agents} agentes | {self.n_tasks} tareas | +{self.task_reward}/tarea {self.collision_penalty}/colisión +{self.cooperation_reward}/coop'
++        return f'{self.grid_size}x{self.grid_size} mixed-motive | {self.n_agents} agents | {self.n_tasks} tasks | +{self.task_reward}/task {self.collision_penalty}/collision +{self.cooperation_reward}/coop'

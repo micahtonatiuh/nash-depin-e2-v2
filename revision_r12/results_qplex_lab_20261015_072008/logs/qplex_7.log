@@ -1,0 +1,2 @@
+qplex seed 7: train Gini 0.3722 tasks [192.71, 0.05] reward 2635 | frozen Gini 0.3701 tasks [197.0, 0.0] hand-overs 0.06 | 705s
+qplex seed 17: train Gini 0.3671 tasks [192.28, 1.06] reward 2648 | frozen Gini 0.3702 tasks [197.5, 0.1] hand-overs 0.12 | 802s

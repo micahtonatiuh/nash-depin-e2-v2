@@ -1,0 +1,466 @@
+{
+ "auction_l0.01": [
+  {
+   "seed": 0,
+   "comply_reward": [
+    1282.6,
+    1394.5
+   ],
+   "comply_tasks": [
+    93.2,
+    104.4
+   ],
+   "gain_r0": 437.6,
+   "gain_r0_pct": 34.1,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 190.1,
+   "gain_r1_pct": 13.6,
+   "tasks_dev1": [
+    64.8,
+    134.3
+   ]
+  },
+  {
+   "seed": 1,
+   "comply_reward": [
+    1330.1,
+    1348.6
+   ],
+   "comply_tasks": [
+    98.0,
+    99.9
+   ],
+   "gain_r0": 393.6,
+   "gain_r0_pct": 29.6,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 223.6,
+   "gain_r1_pct": 16.6,
+   "tasks_dev1": [
+    66.8,
+    132.5
+   ]
+  },
+  {
+   "seed": 2,
+   "comply_reward": [
+    1305.7,
+    1367.1
+   ],
+   "comply_tasks": [
+    95.8,
+    102.0
+   ],
+   "gain_r0": 415.4,
+   "gain_r0_pct": 31.8,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 176.6,
+   "gain_r1_pct": 12.9,
+   "tasks_dev1": [
+    73.9,
+    125.4
+   ]
+  },
+  {
+   "seed": 3,
+   "comply_reward": [
+    1265.5,
+    1407.7
+   ],
+   "comply_tasks": [
+    91.8,
+    106.0
+   ],
+   "gain_r0": 456.8,
+   "gain_r0_pct": 36.1,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 182.1,
+   "gain_r1_pct": 12.9,
+   "tasks_dev1": [
+    66.1,
+    133.2
+   ]
+  },
+  {
+   "seed": 4,
+   "comply_reward": [
+    1301.1,
+    1378.9
+   ],
+   "comply_tasks": [
+    95.0,
+    102.8
+   ],
+   "gain_r0": 421.8,
+   "gain_r0_pct": 32.4,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 164.2,
+   "gain_r1_pct": 11.9,
+   "tasks_dev1": [
+    72.1,
+    127.2
+   ]
+  },
+  {
+   "seed": 5,
+   "comply_reward": [
+    1294.2,
+    1382.9
+   ],
+   "comply_tasks": [
+    94.5,
+    103.4
+   ],
+   "gain_r0": 425.6,
+   "gain_r0_pct": 32.9,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 170.9,
+   "gain_r1_pct": 12.4,
+   "tasks_dev1": [
+    70.8,
+    128.4
+   ]
+  },
+  {
+   "seed": 6,
+   "comply_reward": [
+    1310.9,
+    1366.1
+   ],
+   "comply_tasks": [
+    96.1,
+    101.6
+   ],
+   "gain_r0": 409.8,
+   "gain_r0_pct": 31.3,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 218.0,
+   "gain_r1_pct": 16.0,
+   "tasks_dev1": [
+    65.2,
+    133.9
+   ]
+  },
+  {
+   "seed": 7,
+   "comply_reward": [
+    1304.4,
+    1374.6
+   ],
+   "comply_tasks": [
+    95.3,
+    102.3
+   ],
+   "gain_r0": 417.4,
+   "gain_r0_pct": 32.0,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 175.9,
+   "gain_r1_pct": 12.8,
+   "tasks_dev1": [
+    70.9,
+    128.3
+   ]
+  },
+  {
+   "seed": 8,
+   "comply_reward": [
+    1281.3,
+    1396.1
+   ],
+   "comply_tasks": [
+    93.3,
+    104.7
+   ],
+   "gain_r0": 438.8,
+   "gain_r0_pct": 34.2,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 193.7,
+   "gain_r1_pct": 13.9,
+   "tasks_dev1": [
+    65.0,
+    134.2
+   ]
+  },
+  {
+   "seed": 9,
+   "comply_reward": [
+    1324.2,
+    1350.6
+   ],
+   "comply_tasks": [
+    97.5,
+    100.2
+   ],
+   "gain_r0": 397.6,
+   "gain_r0_pct": 30.0,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 181.0,
+   "gain_r1_pct": 13.4,
+   "tasks_dev1": [
+    72.9,
+    126.3
+   ]
+  }
+ ],
+ "nash_egalitarian": [
+  {
+   "seed": 0,
+   "comply_reward": [
+    1557.5,
+    1083.8
+   ],
+   "comply_tasks": [
+    122.5,
+    75.1
+   ],
+   "gain_r0": 793.5,
+   "gain_r0_pct": 50.9,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 376.8,
+   "gain_r1_pct": 34.8,
+   "tasks_dev1": [
+    87.4,
+    111.5
+   ]
+  },
+  {
+   "seed": 1,
+   "comply_reward": [
+    1403.0,
+    1197.3
+   ],
+   "comply_tasks": [
+    109.2,
+    88.7
+   ],
+   "gain_r0": 949.0,
+   "gain_r0_pct": 67.6,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 108.0,
+   "gain_r1_pct": 9.0,
+   "tasks_dev1": [
+    100.0,
+    99.0
+   ]
+  },
+  {
+   "seed": 2,
+   "comply_reward": [
+    1304.0,
+    1294.4
+   ],
+   "comply_tasks": [
+    99.3,
+    98.3
+   ],
+   "gain_r0": 1047.4,
+   "gain_r0_pct": 80.3,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 91.3,
+   "gain_r1_pct": 7.1,
+   "tasks_dev1": [
+    91.9,
+    106.9
+   ]
+  },
+  {
+   "seed": 3,
+   "comply_reward": [
+    1187.5,
+    1402.6
+   ],
+   "comply_tasks": [
+    88.1,
+    109.6
+   ],
+   "gain_r0": 1161.3,
+   "gain_r0_pct": 97.8,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 78.1,
+   "gain_r1_pct": 5.6,
+   "tasks_dev1": [
+    82.3,
+    116.7
+   ]
+  },
+  {
+   "seed": 4,
+   "comply_reward": [
+    1184.5,
+    1400.8
+   ],
+   "comply_tasks": [
+    88.0,
+    109.6
+   ],
+   "gain_r0": 1168.2,
+   "gain_r0_pct": 98.6,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 75.6,
+   "gain_r1_pct": 5.4,
+   "tasks_dev1": [
+    82.4,
+    116.5
+   ]
+  },
+  {
+   "seed": 5,
+   "comply_reward": [
+    2217.3,
+    408.9
+   ],
+   "comply_tasks": [
+    189.4,
+    8.6
+   ],
+   "gain_r0": 122.2,
+   "gain_r0_pct": 5.5,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 53.8,
+   "gain_r1_pct": 13.1,
+   "tasks_dev1": [
+    184.4,
+    13.8
+   ]
+  },
+  {
+   "seed": 6,
+   "comply_reward": [
+    2199.5,
+    428.7
+   ],
+   "comply_tasks": [
+    187.5,
+    10.4
+   ],
+   "gain_r0": 139.7,
+   "gain_r0_pct": 6.4,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 62.9,
+   "gain_r1_pct": 14.7,
+   "tasks_dev1": [
+    181.6,
+    16.5
+   ]
+  },
+  {
+   "seed": 7,
+   "comply_reward": [
+    1540.4,
+    1098.3
+   ],
+   "comply_tasks": [
+    120.9,
+    76.7
+   ],
+   "gain_r0": 812.3,
+   "gain_r0_pct": 52.7,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 398.3,
+   "gain_r1_pct": 36.3,
+   "tasks_dev1": [
+    83.5,
+    115.3
+   ]
+  },
+  {
+   "seed": 8,
+   "comply_reward": [
+    2153.3,
+    467.4
+   ],
+   "comply_tasks": [
+    183.1,
+    14.5
+   ],
+   "gain_r0": 187.0,
+   "gain_r0_pct": 8.7,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 14.9,
+   "gain_r1_pct": 3.2,
+   "tasks_dev1": [
+    181.8,
+    15.9
+   ]
+  },
+  {
+   "seed": 9,
+   "comply_reward": [
+    1642.9,
+    1005.8
+   ],
+   "comply_tasks": [
+    130.7,
+    67.0
+   ],
+   "gain_r0": 712.0,
+   "gain_r0_pct": 43.3,
+   "tasks_dev0": [
+    200.0,
+    0.0
+   ],
+   "gain_r1": 442.7,
+   "gain_r1_pct": 44.0,
+   "tasks_dev1": [
+    88.9,
+    110.1
+   ]
+  }
+ ]
+}

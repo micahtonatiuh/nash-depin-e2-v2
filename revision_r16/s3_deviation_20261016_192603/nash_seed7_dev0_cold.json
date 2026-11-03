@@ -1,0 +1,32 @@
+{
+ "algo": "nash",
+ "seed": 7,
+ "deviator": 0,
+ "init": "cold",
+ "br_episodes": 3000,
+ "states_touched_by_nash": 0.674,
+ "nash_profile": {
+  "reward_per_ep": [
+   372.8,
+   375.0
+  ],
+  "tasks_per_ep": [
+   0.79,
+   1.01
+  ],
+  "collisions_per_ep": 0.62
+ },
+ "deviation": {
+  "reward_per_ep": [
+   371.8,
+   373.4
+  ],
+  "tasks_per_ep": [
+   0.82,
+   0.98
+  ],
+  "collisions_per_ep": 0.68
+ },
+ "gain": -0.0027,
+ "elapsed_s": 16.4
+}

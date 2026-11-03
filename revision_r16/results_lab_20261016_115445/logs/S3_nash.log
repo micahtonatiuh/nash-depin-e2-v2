@@ -1,0 +1,10 @@
+S3    nash      seed  1: Gini 0.0018 epGini 0.000 tasks [[0.47, 0.0, 0.0], [0.0, 0.22, 0.0]] top 0.6812 A-share 1.0 ho 0.17 coll 3.54 R 708 | 1047s
+S3    nash      seed  3: Gini 0.0003 epGini 0.000 tasks [[1.03, 0.0, 0.04], [0.01, 1.01, 0.0]] top 0.512 A-share 0.9904 ho 0.62 coll 0.93 R 740 | 1033s
+S3    nash      seed  5: Gini 0.0042 epGini 0.000 tasks [[0.61, 0.0, 0.0], [0.0, 0.0, 0.0]] top 1.0 A-share 1.0 ho 0.00 coll 1.86 R 725 | 1056s
+S3    nash      seed  0: Gini 0.0032 epGini 0.000 tasks [[0.4, 0.07, 0.0], [0.01, 0.0, 0.0]] top 0.9792 A-share 0.9756 ho 0.02 coll 1.87 R 728 | 1201s
+S3    nash      seed  6: Gini 0.0012 epGini 0.007 tasks [[0.46, 0.02, 0.0], [0.0, 0.65, 0.0]] top 0.5752 A-share 1.0 ho 0.13 coll 1.30 R 734 | 1045s
+S3    nash      seed  7: Gini 0.0015 epGini 0.000 tasks [[0.79, 0.0, 0.0], [0.0, 1.01, 0.0]] top 0.5611 A-share 1.0 ho 0.58 coll 0.62 R 748 | 1177s
+S3    nash      seed  9: Gini 0.0037 epGini 0.000 tasks [[0.56, 0.0, 0.0], [0.0, 0.02, 0.0]] top 0.9655 A-share 1.0 ho 0.01 coll 1.93 R 725 | 1024s
+S3    nash      seed  2: Gini 0.0085 epGini 0.007 tasks [[0.58, 0.72, 0.0], [0.0, 0.07, 0.0]] top 0.9489 A-share 1.0 ho 0.05 coll 2.90 R 723 | 1638s
+S3    nash      seed  4: Gini 0.0019 epGini 0.006 tasks [[0.77, 0.0, 0.0], [0.0, 1.06, 0.0]] top 0.5792 A-share 1.0 ho 0.55 coll 0.37 R 745 | 1740s
+S3    nash      seed  8: Gini 0.0035 epGini 0.000 tasks [[0.51, 0.0, 0.0], [0.0, 0.0, 0.0]] top 1.0 A-share 1.0 ho 0.00 coll 2.40 R 722 | 1634s

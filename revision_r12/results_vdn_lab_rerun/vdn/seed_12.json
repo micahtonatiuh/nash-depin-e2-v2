@@ -1,0 +1,49 @@
+{
+ "algo": "vdn",
+ "seed": 12,
+ "episodes": 1000,
+ "train_last100": {
+  "gini": 0.37048894280814476,
+  "jain": 0.6455576931613671,
+  "total_reward": 2670.6600000000003,
+  "reward_per_agent": [
+   2324.78,
+   345.88
+  ],
+  "task_balance": 0.0,
+  "task_counts": [
+   194,
+   0
+  ],
+  "mean_collisions": 3.38,
+  "mean_tasks": [
+   194.51,
+   0.0
+  ]
+ },
+ "frozen_e2": {
+  "argmax_eps": {
+   "gini": 0.3703,
+   "tasks_per_ep": [
+    198.0,
+    0.0
+   ],
+   "collisions_per_ep": 3.79,
+   "handovers_per_ep": 0.08,
+   "total_reward_per_ep": 2672.1
+  },
+  "greedy": {
+   "gini": 0.3602,
+   "tasks_per_ep": [
+    200.0,
+    0.0
+   ],
+   "collisions_per_ep": 0.0,
+   "handovers_per_ep": 0.0,
+   "total_reward_per_ep": 2776.0
+  }
+ },
+ "elapsed_s": 188.8,
+ "torch": "2.12.0+cu130",
+ "numpy": "2.2.6"
+}

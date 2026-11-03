@@ -1,0 +1,48 @@
+{
+ "algo": "nash",
+ "scenario": "S1",
+ "seed": 5,
+ "episodes": 3000,
+ "epsilon_decay": 0.9983305478136913,
+ "train_last100": {
+  "gini": 0.1127,
+  "reward_per_agent": [
+   1611.4,
+   1018.5
+  ],
+  "tasks_by_station": [
+   [
+    128.56
+   ],
+   [
+    69.27
+   ]
+  ],
+  "collisions": 5.47
+ },
+ "frozen": {
+  "gini": 0.0875,
+  "ep_gini_median": 0.1582,
+  "reward_per_agent_per_ep": [
+   1539.8,
+   1081.0
+  ],
+  "total_reward_per_ep": 2620.8,
+  "tasks_per_ep_by_station": [
+   [
+    121.82
+   ],
+   [
+    75.94
+   ]
+  ],
+  "tasks_per_ep": 197.76,
+  "top_task_share": 0.616,
+  "station_A_top_share": 0.616,
+  "handovers_per_ep": 1.81,
+  "episodes_with_handover": 84,
+  "moves_per_ep": 27.3,
+  "collisions_per_ep": 5.95
+ },
+ "elapsed_s": 1506.5
+}
