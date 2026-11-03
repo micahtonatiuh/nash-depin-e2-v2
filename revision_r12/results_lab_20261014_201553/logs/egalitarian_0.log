@@ -1,0 +1,20 @@
+  egalitarian control: identical to qtables_all_seeds = True
+egalitarian seed 0: train Gini 0.1210 tasks [126.96, 65.12] | frozen sample_eps Gini 0.0798 tasks [120.0, 77.7] | 415s
+  egalitarian control: identical to qtables_all_seeds = True
+egalitarian seed 2: train Gini 0.0226 tasks [101.97, 86.28] | frozen sample_eps Gini 0.0198 tasks [93.7, 104.0] | 411s
+  egalitarian control: identical to qtables_all_seeds = True
+egalitarian seed 4: train Gini 0.0294 tasks [103.32, 85.15] | frozen sample_eps Gini 0.0134 tasks [95.4, 102.4] | 402s
+  egalitarian control: identical to qtables_all_seeds = True
+egalitarian seed 6: train Gini 0.3504 tasks [183.73, 6.7] | frozen sample_eps Gini 0.3602 tasks [193.4, 4.4] | 378s
+  egalitarian control: identical to qtables_all_seeds = True
+egalitarian seed 8: train Gini 0.3395 tasks [180.93, 9.24] | frozen sample_eps Gini 0.3427 tasks [188.9, 8.9] | 378s
+  egalitarian control: identical to qtables_all_seeds = None
+egalitarian seed 10: train Gini 0.0026 tasks [95.36, 92.81] | frozen sample_eps Gini 0.0086 tasks [101.0, 96.6] | 378s
+  egalitarian control: identical to qtables_all_seeds = None
+egalitarian seed 12: train Gini 0.0170 tasks [91.38, 95.84] | frozen sample_eps Gini 0.0116 tasks [95.8, 101.8] | 378s
+  egalitarian control: identical to qtables_all_seeds = None
+egalitarian seed 14: train Gini 0.3282 tasks [177.74, 12.47] | frozen sample_eps Gini 0.3574 tasks [193.0, 5.1] | 377s
+  egalitarian control: identical to qtables_all_seeds = None
+egalitarian seed 16: train Gini 0.3442 tasks [182.01, 8.37] | frozen sample_eps Gini 0.3417 tasks [188.7, 9.0] | 378s
+  egalitarian control: identical to qtables_all_seeds = None
+egalitarian seed 18: train Gini 0.3248 tasks [178.07, 12.9] | frozen sample_eps Gini 0.3559 tasks [192.3, 5.3] | 375s

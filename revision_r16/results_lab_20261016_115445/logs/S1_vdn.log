@@ -1,0 +1,10 @@
+S1    vdn       seed  1: Gini 0.3714 epGini 0.371 tasks [[197.67], [0.06]] top 0.9997 A-share 0.9997 ho 0.12 coll 3.69 R 2660 | 642s
+S1    vdn       seed  0: Gini 0.4372 epGini 0.432 tasks [[196.78], [0.0]] top 1.0 A-share 1.0 ho 0.00 coll 1.45 R 2250 | 715s
+S1    vdn       seed  3: Gini 0.3719 epGini 0.371 tasks [[197.52], [0.04]] top 0.9998 A-share 0.9998 ho 0.08 coll 3.86 R 2655 | 636s
+S1    vdn       seed  4: Gini 0.4938 epGini 0.500 tasks [[195.88], [0.0]] top 1.0 A-share 1.0 ho 0.00 coll 0.12 R 1983 | 700s
+S1    vdn       seed  2: Gini 0.5000 epGini 0.500 tasks [[196.2], [0.0]] top 1.0 A-share 1.0 ho 0.00 coll 0.00 R 1962 | 821s
+S1    vdn       seed  5: Gini 0.4714 epGini 0.500 tasks [[160.69], [0.01]] top 0.9999 A-share 0.9999 ho 0.02 coll 0.54 R 1704 | 736s
+S1    vdn       seed  6: Gini 0.3705 epGini 0.370 tasks [[197.5], [0.28]] top 0.9986 A-share 0.9986 ho 0.12 coll 3.67 R 2662 | 615s
+S1    vdn       seed  8: Gini 0.3582 epGini 0.371 tasks [[193.77], [3.69]] top 0.9813 A-share 0.9813 ho 0.13 coll 3.89 R 2654 | 602s
+S1    vdn       seed  7: Gini 0.3720 epGini 0.372 tasks [[197.74], [0.06]] top 0.9997 A-share 0.9997 ho 0.09 coll 3.46 R 2657 | 653s
+S1    vdn       seed  9: Gini 0.3715 epGini 0.371 tasks [[197.46], [0.02]] top 0.9999 A-share 0.9999 ho 0.04 coll 3.53 R 2657 | 618s

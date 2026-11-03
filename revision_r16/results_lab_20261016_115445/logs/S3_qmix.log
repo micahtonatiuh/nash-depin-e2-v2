@@ -1,0 +1,10 @@
+S3    qmix      seed  0: Gini 0.0161 epGini 0.045 tasks [[17.78, 30.6, 3.32], [15.49, 2.71, 30.27]] top 0.5161 A-share 0.5344 ho 52.95 coll 0.47 R 1002 | 658s
+S3    qmix      seed  1: Gini 0.0014 epGini 0.028 tasks [[17.46, 33.91, 0.0], [16.82, 0.0, 34.84]] top 0.5014 A-share 0.5093 ho 57.12 coll 0.00 R 1030 | 660s
+S3    qmix      seed  2: Gini 0.0058 epGini 0.029 tasks [[15.55, 22.92, 7.64], [15.41, 8.21, 23.6]] top 0.5059 A-share 0.5023 ho 49.91 coll 0.79 R 960 | 818s
+S3    qmix      seed  3: Gini 0.0702 epGini 0.065 tasks [[6.29, 0.0, 20.92], [15.34, 20.57, 0.18]] top 0.5701 A-share 0.7092 ho 31.49 coll 21.62 R 632 | 649s
+S3    qmix      seed  4: Gini 0.0396 epGini 0.040 tasks [[22.23, 33.65, 0.0], [12.61, 0.0, 35.06]] top 0.5396 A-share 0.6381 ho 54.77 coll 0.00 R 1036 | 629s
+S3    qmix      seed  5: Gini 0.0016 epGini 0.029 tasks [[13.01, 19.0, 6.12], [12.39, 6.32, 19.18]] top 0.5016 A-share 0.5122 ho 40.75 coll 0.43 R 770 | 661s
+S3    qmix      seed  6: Gini 0.0089 epGini 0.027 tasks [[16.14, 0.01, 33.38], [17.31, 33.97, 0.06]] top 0.509 A-share 0.5175 ho 55.28 coll 0.02 R 1012 | 658s
+S3    qmix      seed  7: Gini 0.0377 epGini 0.042 tasks [[10.27, 25.85, 0.0], [16.12, 0.04, 26.36]] top 0.5407 A-share 0.6108 ho 40.46 coll 3.65 R 850 | 668s
+S3    qmix      seed  8: Gini 0.0110 epGini 0.026 tasks [[17.13, 0.0, 34.98], [15.66, 34.21, 0.0]] top 0.511 A-share 0.5224 ho 54.65 coll 0.00 R 1020 | 634s
+S3    qmix      seed  9: Gini 0.0032 epGini 0.025 tasks [[17.71, 0.0, 33.99], [16.32, 34.72, 0.0]] top 0.5032 A-share 0.5204 ho 57.42 coll 0.17 R 1027 | 650s

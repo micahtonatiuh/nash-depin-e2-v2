@@ -1,0 +1,29 @@
+states=600, joint actions=25, max one-step r_tot=14.0
+
+[A] V*_team(start) = 258.8074  (bound 14/(1-g) = 280.0000)
+    optimal joint actions in ((0, 0), (1, 0)): [('up', 'left'), ('up', 'stay'), ('down', 'up'), ('left', 'left'), ('left', 'stay'), ('right', 'up'), ('stay', 'left'), ('stay', 'stay')]
+
+[B] monopoly    team V= 258.807  per-agent V=[229.4  29.4]  200-step returns=[2388.  388.]  Gini=0.360
+    under eps=0.05 execution noise: team V= 249.721  200-step=[2263.2  414.5]  Gini=0.345
+
+[B] alternation team V= 258.807  per-agent V=[157.78 101.03]  200-step returns=[1418. 1358.]  Gini=0.011
+    under eps=0.05 execution noise: team V= 244.097  200-step=[1334.9 1263.9]  Gini=0.014
+
+[C] Q*_tot at s_h=((0, 0), (1, 0)), rows a0 in (stay,right), cols a1 in (stay,up):
+[[280. 266.]
+ [266. 280.]]
+    effect of a0: stay->right is -14.000 if a1=stay, +14.000 if a1=up  -> sign flip = True (non-monotonic interaction)
+    best additive fit: argmax = (left,stay), max abs residual = 12.160
+    -> effective outcome of that argmax: hold
+
+[D] eps-robust team optimum: intended action at ((0, 0), (1, 0)) = (left,stay); 200-step returns=[1295.3 1382.5]  Gini=0.016
+    Q_eps(stay,stay) - Q_eps(handover) at s_h = 0.426
+
+[E] monopoly: best-response gain at start (R0,R1) = (-0.0000, -0.0000); max over all states = (7.670, 7.670)
+
+[E] alternation: best-response gain at start (R0,R1) = (-0.0000, -0.0000); max over all states = (7.670, 7.670)
+[F] monopoly    eps=0.05: per-episode Gini median 0.369 [0.366, 0.371]; top task share median 1.00
+[F] alternation eps=0.05: per-episode Gini median 0.013 [0.008, 0.019]; top task share median 0.52
+[F] eps_robust  eps=0.05: per-episode Gini median 0.222 [0.120, 0.322]; top task share median 0.80
+
+saved expected/exact_team_dp_results.json

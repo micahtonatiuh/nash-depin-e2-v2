@@ -1,0 +1,37 @@
+seed 0: Gini 0.305  Jain 0.729  tasks [177.8  16.8]  top share 0.91  total R 2682.9  | greedy tasks [200, 0]  | frozen eps Gini 0.330
+seed 1: Gini 0.500  Jain 0.500  tasks [195.9   0. ]  top share 1.00  total R 1958.8  | greedy tasks [200, 0]  | frozen eps Gini 0.495
+seed 2: Gini 0.000  Jain 1.000  tasks [97.  97.3]  top share 0.50  total R 2675.5  | greedy tasks [200, 0]  | frozen eps Gini 0.016
+seed 3: Gini 0.006  Jain 1.000  tasks [95.8 98.6]  top share 0.51  total R 2677.3  | greedy tasks [200, 0]  | frozen eps Gini 0.009
+seed 4: Gini 0.340  Jain 0.684  tasks [  8.  186.1]  top share 0.96  total R 2672.9  | greedy tasks [7, 193]  | frozen eps Gini 0.340
+seed 5: Gini 0.339  Jain 0.685  tasks [  8.  185.8]  top share 0.96  total R 2672.9  | greedy tasks [7, 193]  | frozen eps Gini 0.341
+seed 6: Gini 0.500  Jain 0.500  tasks [195.6   0. ]  top share 1.00  total R 1955.5  | greedy tasks [200, 0]  | frozen eps Gini 0.500
+seed 7: Gini 0.190  Jain 0.873  tasks [147.3  47.1]  top share 0.76  total R 2679.6  | greedy tasks [200, 0]  | frozen eps Gini 0.149
+seed 8: Gini 0.080  Jain 0.975  tasks [ 76.2 118.2]  top share 0.61  total R 2681.0  | greedy tasks [200, 0]  | frozen eps Gini 0.010
+seed 9: Gini 0.366  Jain 0.652  tasks [192.9   1.4]  top share 0.99  total R 2671.2  | greedy tasks [200, 0]  | frozen eps Gini 0.349
+
+SUMMARY {
+ "episodes": 10000,
+ "n": 10,
+ "gini_median": 0.3221277415551794,
+ "gini_iqr": [
+  0.10768514906752857,
+  0.35911623172280016
+ ],
+ "fair_seeds": [
+  2,
+  3,
+  8
+ ],
+ "greedy_monopoly_seeds": [
+  0,
+  1,
+  2,
+  3,
+  6,
+  7,
+  8,
+  9
+ ],
+ "total_reward_mean": 2532.7660000000005,
+ "total_reward_std": 287.8308394943113
+}

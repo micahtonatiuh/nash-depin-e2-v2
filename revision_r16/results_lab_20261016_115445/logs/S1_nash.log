@@ -1,0 +1,10 @@
+S1    nash      seed  5: Gini 0.0875 epGini 0.158 tasks [[121.82], [75.94]] top 0.616 A-share 0.616 ho 1.81 coll 5.95 R 2621 | 1506s
+S1    nash      seed  4: Gini 0.1095 epGini 0.168 tasks [[127.61], [70.07]] top 0.6455 A-share 0.6455 ho 1.91 coll 5.43 R 2628 | 1535s
+S1    nash      seed  6: Gini 0.1136 epGini 0.211 tasks [[128.66], [68.95]] top 0.6511 A-share 0.6511 ho 1.87 coll 5.36 R 2629 | 1541s
+S1    nash      seed  8: Gini 0.1044 epGini 0.164 tasks [[126.26], [71.41]] top 0.6387 A-share 0.6387 ho 1.97 coll 5.58 R 2626 | 1613s
+S1    nash      seed  3: Gini 0.1440 epGini 0.196 tasks [[136.6], [60.98]] top 0.6914 A-share 0.6914 ho 1.86 coll 5.52 R 2625 | 1616s
+S1    nash      seed  9: Gini 0.0871 epGini 0.173 tasks [[121.51], [75.88]] top 0.6156 A-share 0.6156 ho 2.12 coll 5.64 R 2620 | 1690s
+S1    nash      seed  2: Gini 0.0962 epGini 0.151 tasks [[124.14], [73.67]] top 0.6276 A-share 0.6276 ho 1.91 coll 5.81 R 2624 | 2053s
+S1    nash      seed  7: Gini 0.1263 epGini 0.228 tasks [[131.84], [65.62]] top 0.6677 A-share 0.6677 ho 1.99 coll 5.73 R 2622 | 2172s
+S1    nash      seed  0: Gini 0.0922 epGini 0.162 tasks [[123.13], [74.64]] top 0.6226 A-share 0.6226 ho 1.83 coll 5.37 R 2630 | 2435s
+S1    nash      seed  1: Gini 0.1086 epGini 0.149 tasks [[127.21], [70.21]] top 0.6444 A-share 0.6444 ho 2.00 coll 5.41 R 2625 | 2450s

@@ -1,0 +1,66 @@
+40 jobs, BR_EPISODES=3000, eval 100 eps, eps=0.05 -> /home/turtle/nash-depin-e2-v2/revision_r16/s3_deviation_20261016_192603
+  nash      seed 0 dev R0 cold gain -0.014 | 13s
+  nash      seed 2 dev R1 cold gain +0.008 | 13s
+  nash      seed 2 dev R1 warm gain +0.009 | 13s
+  nash      seed 0 dev R0 warm gain -0.001 | 13s
+  nash      seed 1 dev R1 cold gain +0.016 | 13s
+  nash      seed 2 dev R0 cold gain -0.014 | 13s
+  nash      seed 0 dev R1 cold gain +0.016 | 13s
+  nash      seed 1 dev R1 warm gain -0.003 | 13s
+  nash      seed 1 dev R0 warm gain +0.049 | 18s
+  nash      seed 1 dev R0 cold gain +0.023 | 18s
+  nash      seed 0 dev R1 warm gain +0.009 | 18s
+  nash      seed 2 dev R0 warm gain +0.003 | 18s
+  nash      seed 3 dev R0 warm gain -0.001 | 14s
+  nash      seed 3 dev R0 cold gain +0.002 | 14s
+  nash      seed 3 dev R1 warm gain +0.008 | 14s
+  nash      seed 4 dev R0 cold gain +0.005 | 14s
+  nash      seed 4 dev R1 warm gain -0.003 | 14s
+  nash      seed 4 dev R0 warm gain +0.006 | 14s
+  nash      seed 3 dev R1 cold gain +0.007 | 14s
+  nash      seed 4 dev R1 cold gain -0.002 | 14s
+  nash      seed 5 dev R1 warm gain +0.022 | 17s
+  nash      seed 5 dev R0 warm gain -0.018 | 18s
+  nash      seed 5 dev R1 cold gain +0.023 | 18s
+  nash      seed 5 dev R0 cold gain -0.020 | 18s
+  nash      seed 6 dev R0 warm gain +0.016 | 14s
+  nash      seed 6 dev R1 cold gain -0.035 | 14s
+  nash      seed 6 dev R0 cold gain +0.026 | 14s
+  nash      seed 6 dev R1 warm gain +0.003 | 14s
+  nash      seed 7 dev R0 warm gain -0.013 | 14s
+  nash      seed 7 dev R1 warm gain -0.008 | 14s
+  nash      seed 7 dev R1 cold gain -0.061 | 14s
+  nash      seed 7 dev R0 cold gain -0.003 | 16s
+  nash      seed 8 dev R0 warm gain +0.023 | 14s
+  nash      seed 8 dev R1 cold gain +0.022 | 16s
+  nash      seed 8 dev R1 warm gain +0.004 | 16s
+  nash      seed 8 dev R0 cold gain +0.010 | 16s
+  nash      seed 9 dev R0 warm gain -0.005 | 14s
+  nash      seed 9 dev R0 cold gain +0.001 | 14s
+  nash      seed 9 dev R1 warm gain +0.017 | 14s
+  nash      seed 9 dev R1 cold gain -0.004 | 14s
+
+algo      seed dev  touched  R_dev Nash  R_dev BR  gain   tasks dev Nash->BR  tasks other  R_other Nash->BR
+nash         0  R0   0.69      366.1     365.9  -0.001    0.47 ->   0.45    0.01-> 0.01     361.5 ->   361.5  (warm)
+nash         0  R1   0.69      361.5     367.2  +0.016    0.01 ->   1.13    0.47-> 0.85     366.1 ->   364.4  (cold)
+nash         1  R0   0.70      355.2     372.7  +0.049    0.47 ->   0.91    0.22-> 0.82     352.7 ->   371.8  (warm)
+nash         1  R1   0.70      352.7     358.4  +0.016    0.22 ->   1.19    0.47-> 1.03     355.2 ->   356.8  (cold)
+nash         2  R0   0.71      367.6     368.8  +0.003    1.30 ->   1.43    0.07-> 0.05     355.3 ->   355.0  (warm)
+nash         2  R1   0.71      355.3     358.5  +0.009    0.07 ->   0.06    1.30-> 1.32     367.6 ->   371.1  (warm)
+nash         3  R0   0.71      370.5     371.2  +0.002    1.07 ->   1.11    1.02-> 0.96     370.0 ->   369.7  (cold)
+nash         3  R1   0.71      370.0     373.1  +0.008    1.02 ->   1.04    1.07-> 1.05     370.5 ->   373.2  (warm)
+nash         4  R0   0.68      371.2     373.3  +0.006    0.77 ->   0.82    1.06-> 1.07     374.1 ->   375.8  (warm)
+nash         4  R1   0.68      374.1     373.4  -0.002    1.06 ->   1.06    0.77-> 0.77     371.2 ->   370.5  (cold)
+nash         5  R0   0.70      365.4     358.7  -0.018    0.61 ->   0.61    0.00-> 0.00     359.3 ->   352.6  (warm)
+nash         5  R1   0.70      359.3     367.5  +0.023    0.00 ->   0.90    0.61-> 0.96     365.4 ->   368.1  (cold)
+nash         6  R0   0.69      366.3     375.7  +0.026    0.48 ->   1.10    0.65-> 0.03     368.0 ->   365.0  (cold)
+nash         6  R1   0.69      368.0     369.2  +0.003    0.65 ->   0.66    0.48-> 0.47     366.3 ->   367.3  (warm)
+nash         7  R0   0.67      372.8     371.8  -0.003    0.79 ->   0.82    1.01-> 0.98     375.0 ->   373.4  (cold)
+nash         7  R1   0.67      375.0     372.0  -0.008    1.01 ->   0.97    0.79-> 0.80     372.8 ->   370.3  (warm)
+nash         8  R0   0.69      363.4     371.8  +0.023    0.51 ->   0.51    0.00-> 0.00     358.3 ->   366.7  (warm)
+nash         8  R1   0.69      358.3     366.1  +0.022    0.00 ->   2.02    0.51-> 1.22     363.4 ->   358.1  (cold)
+nash         9  R0   0.68      365.1     365.5  +0.001    0.56 ->   0.58    0.02-> 0.00     359.7 ->   359.7  (cold)
+nash         9  R1   0.68      359.7     365.8  +0.017    0.02 ->   0.00    0.56-> 0.56     365.1 ->   371.4  (warm)
+
+nash: best-response gain median +0.007, min -0.018, max +0.049; 0/20 robot-seeds gain > 5 %
+DONE -> /home/turtle/nash-depin-e2-v2/revision_r16/s3_deviation_20261016_192603

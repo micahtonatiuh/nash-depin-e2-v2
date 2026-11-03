@@ -1,0 +1,26 @@
+== 0. Environment and provenance ==
+date: 2026-10-09T12:59:58-06:00
+host: turtle-Dell-Pro-Micro-Plus-QBM1250
+Linux turtle-Dell-Pro-Micro-Plus-QBM1250 6.8.0-138-generic #138~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  7 13:43:15 UTC  x86_64 x86_64 x86_64 GNU/Linux
+Ubuntu 22.04.5 LTS
+python 3.10.12 | numpy 2.2.6 | pyyaml 6.0.3
+repo: /home/turtle/nash-depin-e2-v2
+fb8f4c1b10af3d14d2273bf15df32a0f4f8d6919
+v2.1
+expected commit (cloud run): fb8f4c1b10af3d14d2273bf15df32a0f4f8d6919 (tag v2.1)
+5ae65aa72239d55cdd53124717a5f874c724a569a357a179ee8cb8bf3f16d0c6  /home/turtle/nash-depin-e2-v2/nash_depin/environment_mixed.py
+02fd38925eabf4a08dee5d941c058716602b9387ca3ba0123b6534fcb2b5c3a9  /home/turtle/nash-depin-e2-v2/nash_depin/fairness_metrics.py
+c94e765fe3bdabe3697d13c8b5e23566c50bf4e9cc85be12762073f91deecd56  /home/turtle/nash-depin-e2-v2/config/e2_config.yaml
+expected sha256 (cloud run):
+  5ae65aa72239d55cdd53124717a5f874c724a569a357a179ee8cb8bf3f16d0c6  environment_mixed.py
+  02fd38925eabf4a08dee5d941c058716602b9387ca3ba0123b6534fcb2b5c3a9  fairness_metrics.py
+  c94e765fe3bdabe3697d13c8b5e23566c50bf4e9cc85be12762073f91deecd56  e2_config.yaml
+84fc9ea0e0cdf3413833106e7f158d389fd9e9d62c198e29c530d299fc5928c2  /home/turtle/r1_1_lab/ast_check.py
+d42960365410809a28a96a78dc19b2b74263f2a7b9b0267021b00620eb0e16f3  /home/turtle/r1_1_lab/compare_results.py
+7ceedcdb34968d5bb4a769ce0a1ff17e6c8094170f97bff5b089d10b13b1548b  /home/turtle/r1_1_lab/exact_team_dp.py
+59a338d780633c14e6291265bfaa94677674a9e28fcb8a16e80a545d0540dbe4  /home/turtle/r1_1_lab/extra_checks.py
+a7929fcd88612f539ceca82ff29320b63f5faa1eae605e0f6f0c20a567453c69  /home/turtle/r1_1_lab/projection_check.py
+7c6ec1f96b019e0912b669db4621000ee336d75751cbe7d8c9d644d8ad66609e  /home/turtle/r1_1_lab/team_q_no_igm.py
+== 1. Original lab code vs public repo (logic only) ==
+[DIFF] nash_depin/environment_mixed.py: logic differs (check string literals/log messages)
+[PASS] nash_depin/fairness_metrics.py: logic identical

@@ -1,0 +1,34 @@
+== 0. Environment and provenance ==
+date: 2026-10-09T13:37:00-06:00
+host: turtle-Dell-Pro-Micro-Plus-QBM1250
+Linux turtle-Dell-Pro-Micro-Plus-QBM1250 6.8.0-138-generic #138~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Aug  7 13:43:15 UTC  x86_64 x86_64 x86_64 GNU/Linux
+Ubuntu 22.04.5 LTS
+python 3.10.12 | numpy 2.2.6 | pyyaml 6.0.3
+repo: /home/turtle/nash-depin-e2-v2
+fb8f4c1b10af3d14d2273bf15df32a0f4f8d6919
+v2.1
+expected commit (cloud run): fb8f4c1b10af3d14d2273bf15df32a0f4f8d6919 (tag v2.1)
+5ae65aa72239d55cdd53124717a5f874c724a569a357a179ee8cb8bf3f16d0c6  /home/turtle/nash-depin-e2-v2/nash_depin/environment_mixed.py
+02fd38925eabf4a08dee5d941c058716602b9387ca3ba0123b6534fcb2b5c3a9  /home/turtle/nash-depin-e2-v2/nash_depin/fairness_metrics.py
+c94e765fe3bdabe3697d13c8b5e23566c50bf4e9cc85be12762073f91deecd56  /home/turtle/nash-depin-e2-v2/config/e2_config.yaml
+expected sha256 (cloud run):
+  5ae65aa72239d55cdd53124717a5f874c724a569a357a179ee8cb8bf3f16d0c6  environment_mixed.py
+  02fd38925eabf4a08dee5d941c058716602b9387ca3ba0123b6534fcb2b5c3a9  fairness_metrics.py
+  c94e765fe3bdabe3697d13c8b5e23566c50bf4e9cc85be12762073f91deecd56  e2_config.yaml
+447d2c0a4101442029b888394f2bca97bd548af315e8760e0653e3661daa4c99  /home/turtle/r1_1_lab/ast_check.py
+0fce5ef755dd25a7d00e21da6a7c43635e88b1b0cb34a18e227292e16f2e7694  /home/turtle/r1_1_lab/compare_results.py
+7dab5187919d9850ad390b573c81ea3279e8a83c8e4042f73e10e17331e9a38c  /home/turtle/r1_1_lab/env_equivalence.py
+a938fc268ad820d7a026d4c2da718233849c37710f97ec99e2acd10481c0be37  /home/turtle/r1_1_lab/exact_team_dp.py
+59a338d780633c14e6291265bfaa94677674a9e28fcb8a16e80a545d0540dbe4  /home/turtle/r1_1_lab/extra_checks.py
+0fc1f8e282fe0dce0b9265335309a05f160bbdfb50dd9664577b1b774bf285c5  /home/turtle/r1_1_lab/projection_check.py
+7c6ec1f96b019e0912b669db4621000ee336d75751cbe7d8c9d644d8ad66609e  /home/turtle/r1_1_lab/team_q_no_igm.py
+== 1. Original lab code vs public repo (logic only) ==
+[TEXT] nash_depin/environment_mixed.py: only string literals differ (L2 identical) -> text, not logic
+       diff written to /home/turtle/r1_1_lab/results_lab/20261009_133700/ast_diff_environment_mixed.py.txt
+[PASS] nash_depin/fairness_metrics.py: logic identical (L1)
+== 1b. Original lab environment vs public repo (behaviour, all state-action pairs) ==
+public: class MixedMotiveGridWorld('grid_size', 'n_agents', 'n_tasks', 'task_reward', 'collision_penalty', 'cooperation_reward', 'coop_distance', 'max_steps', 'seed')
+original: class MixedMotiveGridWorld('grid_size', 'n_agents', 'n_tasks', 'task_reward', 'collision_penalty', 'cooperation_reward', 'coop_distance', 'max_steps', 'seed')
+
+steps compared: 400,000  | distinct (state, joint action) pairs visited: 15,000 of 15,000
+[PASS] environment behaviour identical

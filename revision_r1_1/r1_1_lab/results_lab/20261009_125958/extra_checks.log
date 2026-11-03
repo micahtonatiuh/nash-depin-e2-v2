@@ -1,0 +1,13 @@
+V* physical start: 240.065
+mono E2   200-step returns [2388.  388.], team 2776.0
+mono phys 200-step returns [2364.  394.], team 2758.0
+alt  E2   200-step returns [1418. 1358.], team 2776.0
+alt  phys 200-step returns [1384. 1374.], team 2758.0
+((0, 0), (0, 1)) hold r_tot 14.0 -> ((0, 0), (0, 1))
+((0, 0), (0, 1)) handover r_tot 14.0 -> ((1, 0), (0, 0))
+((0, 0), (1, 0)) hold r_tot 14.0 -> ((0, 0), (1, 0))
+((0, 0), (1, 0)) handover r_tot 14.0 -> ((0, 1), (0, 0))
+((0, 1), (0, 0)) hold r_tot 14.0 -> ((0, 1), (0, 0))
+((0, 1), (0, 0)) handover r_tot 14.0 -> ((0, 0), (1, 0))
+((1, 0), (0, 0)) hold r_tot 14.0 -> ((1, 0), (0, 0))
+((1, 0), (0, 0)) handover r_tot 14.0 -> ((0, 0), (0, 1))

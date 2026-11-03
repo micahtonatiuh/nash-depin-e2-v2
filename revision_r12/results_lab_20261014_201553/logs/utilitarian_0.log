@@ -1,0 +1,10 @@
+utilitarian seed 0: train Gini 0.0463 tasks [109.11, 84.65] | frozen sample_eps Gini 0.0307 tasks [107.2, 90.7] | 405s
+utilitarian seed 2: train Gini 0.3519 tasks [190.05, 4.5] | frozen sample_eps Gini 0.3586 tasks [195.2, 2.8] | 408s
+utilitarian seed 4: train Gini 0.3418 tasks [187.39, 7.13] | frozen sample_eps Gini 0.3444 tasks [191.3, 6.6] | 396s
+utilitarian seed 6: train Gini 0.3400 tasks [186.63, 7.84] | frozen sample_eps Gini 0.3396 tasks [190.0, 7.8] | 372s
+utilitarian seed 8: train Gini 0.3623 tasks [192.14, 2.0] | frozen sample_eps Gini 0.3489 tasks [192.3, 5.5] | 372s
+utilitarian seed 10: train Gini 0.3408 tasks [186.6, 7.55] | frozen sample_eps Gini 0.3520 tasks [193.4, 4.5] | 372s
+utilitarian seed 12: train Gini 0.3641 tasks [192.44, 1.54] | frozen sample_eps Gini 0.3492 tasks [192.4, 5.3] | 374s
+utilitarian seed 14: train Gini 0.3390 tasks [185.8, 8.16] | frozen sample_eps Gini 0.3628 tasks [196.2, 1.8] | 372s
+utilitarian seed 16: train Gini 0.3536 tasks [189.47, 4.37] | frozen sample_eps Gini 0.3346 tasks [188.4, 9.3] | 371s
+utilitarian seed 18: train Gini 0.3264 tasks [183.36, 11.06] | frozen sample_eps Gini 0.3474 tasks [191.8, 6.0] | 372s

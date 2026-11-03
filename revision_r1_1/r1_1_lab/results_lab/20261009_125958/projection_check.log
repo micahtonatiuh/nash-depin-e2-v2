@@ -1,0 +1,4 @@
+eps= 1.0: data around handover(right,up) -> greedy ('up', 'stay');  around hold(stay,stay) -> greedy ('up', 'stay')
+eps= 0.5: data around handover(right,up) -> greedy ('down', 'up');  around hold(stay,stay) -> greedy ('stay', 'stay')
+eps= 0.2: data around handover(right,up) -> greedy ('down', 'up');  around hold(stay,stay) -> greedy ('left', 'stay')
+eps=0.05: data around handover(right,up) -> greedy ('down', 'up');  around hold(stay,stay) -> greedy ('up', 'left')

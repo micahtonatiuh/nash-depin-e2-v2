@@ -1,0 +1,20 @@
+[PASS] DP V_team_start lab=258.8073512499826 ref=258.8073512499826
+[PASS] DP handover_submatrix lab=[[279.99999999998346, 265.99999999998346], [265.99999999998346, 279.99999999998346]] ref=[[279.99999999998346, 265.99999999998346], [265.99999999998346, 279.99999999998346]]
+[PASS] DP sign_flip lab=True ref=True
+[PASS] DP additive_fit_class lab=hold ref=hold
+[INFO] DP additive_fit_argmax label: lab=['left', 'left'] ref=['left', 'stay'] (tied labels; class compared above)
+[PASS] DP monopoly.team_V lab=258.8073512499997
+[PASS] DP monopoly.ep200 lab=[2388.0, 388.0]
+[PASS] DP monopoly.gini200 lab=0.36023054755043227
+[PASS] DP monopoly.br_gain_start lab=[-1.9099388737231493e-11, -3.161915174132446e-12]
+[PASS] DP alternation.team_V lab=258.8073512499997
+[PASS] DP alternation.ep200 lab=[1418.0, 1358.0]
+[PASS] DP alternation.gini200 lab=0.010806916426512969
+[PASS] DP alternation.br_gain_start lab=[-1.5717205315013416e-11, -1.5916157281026244e-11]
+[PASS] projection outcomes (hold/handover per eps) lab=['hold', 'hold', 'handover', 'hold', 'handover', 'hold', 'handover', 'hold']
+[PASS] log extra_checks.log (13 lines)
+[SKIP] team-Q team_q_1k_s0-19.json: not run in this (quick) mode; see the full run
+[SKIP] team-Q team_q_10k_s0-9.json: not run in this (quick) mode; see the full run
+[SKIP] team-Q team_q_10k_s10-19.json: not run in this (quick) mode; see the full run
+
+OVERALL: ALL PASS — lab reproduces the cloud results

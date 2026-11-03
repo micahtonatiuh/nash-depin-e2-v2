@@ -1,0 +1,520 @@
+{
+  "summary": {
+    "episodes": 1000,
+    "n": 20,
+    "gini_median": 0.4930228584403526,
+    "gini_iqr": [
+      0.4349072017964772,
+      0.5
+    ],
+    "fair_seeds": [
+      8,
+      10
+    ],
+    "greedy_monopoly_seeds": [
+      0,
+      1,
+      2,
+      3,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19
+    ],
+    "total_reward_mean": 2147.5800000000004,
+    "total_reward_std": 305.962166419314
+  },
+  "per_seed": [
+    {
+      "seed": 0,
+      "gini": 0.493976814516129,
+      "jain": 0.5060594615830462,
+      "mean_R": [
+        1972.05,
+        11.95
+      ],
+      "mean_tasks": [
+        195.9,
+        0.0
+      ],
+      "total_reward": 1984.0,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.49241128042029836
+    },
+    {
+      "seed": 1,
+      "gini": 0.5,
+      "jain": 0.5,
+      "mean_R": [
+        1957.1,
+        0.0
+      ],
+      "mean_tasks": [
+        195.71,
+        0.0
+      ],
+      "total_reward": 1957.1,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 2,
+      "gini": 0.49997958121063,
+      "jain": 0.5000204192062969,
+      "mean_R": [
+        1958.94,
+        0.04
+      ],
+      "mean_tasks": [
+        195.89,
+        0.0
+      ],
+      "total_reward": 1958.98,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 3,
+      "gini": 0.5,
+      "jain": 0.5,
+      "mean_R": [
+        1958.2,
+        0.0
+      ],
+      "mean_tasks": [
+        195.82,
+        0.0
+      ],
+      "total_reward": 1958.2,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 4,
+      "gini": 0.3404628357323602,
+      "jain": 0.6832188876512095,
+      "mean_R": [
+        424.94,
+        2238.64
+      ],
+      "mean_tasks": [
+        7.94,
+        185.49
+      ],
+      "total_reward": 2663.58,
+      "top_task_share": 0.958951558703407,
+      "greedy_R": [
+        458.0,
+        2318.0
+      ],
+      "greedy_tasks": [
+        7,
+        193
+      ],
+      "frozen_eps_gini": 0.34041416714602674
+    },
+    {
+      "seed": 5,
+      "gini": 0.48888413634373123,
+      "jain": 0.5112393948593502,
+      "mean_R": [
+        1942.03,
+        21.83
+      ],
+      "mean_tasks": [
+        193.88,
+        1.79
+      ],
+      "total_reward": 1963.86,
+      "top_task_share": 0.9908519446006031,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.49159514499009704
+    },
+    {
+      "seed": 6,
+      "gini": 0.5,
+      "jain": 0.5,
+      "mean_R": [
+        1958.0,
+        0.0
+      ],
+      "mean_tasks": [
+        195.8,
+        0.0
+      ],
+      "total_reward": 1958.0,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 7,
+      "gini": 0.4569191219715798,
+      "jain": 0.5449293318364133,
+      "mean_R": [
+        2017.53,
+        90.83
+      ],
+      "mean_tasks": [
+        193.09,
+        1.22
+      ],
+      "total_reward": 2108.36,
+      "top_task_share": 0.9937213730636612,
+      "greedy_R": [
+        2388.0,
+        388.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.3465076889787574
+    },
+    {
+      "seed": 8,
+      "gini": 0.012556992301367823,
+      "jain": 0.9993696853245435,
+      "mean_R": [
+        1371.5,
+        1304.3
+      ],
+      "mean_tasks": [
+        100.46,
+        93.81
+      ],
+      "total_reward": 2675.8,
+      "top_task_share": 0.5171153549184125,
+      "greedy_R": [
+        2388.0,
+        388.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.04457035079972158
+    },
+    {
+      "seed": 9,
+      "gini": 0.49902252270598296,
+      "jain": 0.500978432754048,
+      "mean_R": [
+        1962.32,
+        1.92
+      ],
+      "mean_tasks": [
+        196.04,
+        0.0
+      ],
+      "total_reward": 1964.24,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.49877594736573666
+    },
+    {
+      "seed": 10,
+      "gini": 0.027320873670371695,
+      "jain": 0.9970231674377127,
+      "mean_R": [
+        1265.57,
+        1411.87
+      ],
+      "mean_tasks": [
+        89.9,
+        104.37
+      ],
+      "total_reward": 2677.4399999999996,
+      "top_task_share": 0.537241982807433,
+      "greedy_R": [
+        2388.0,
+        388.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.021498794425243176
+    },
+    {
+      "seed": 11,
+      "gini": 0.33464111331770463,
+      "jain": 0.6906369729371634,
+      "mean_R": [
+        2235.87,
+        442.97
+      ],
+      "mean_tasks": [
+        185.22,
+        9.07
+      ],
+      "total_reward": 2678.84,
+      "top_task_share": 0.9533172062380977,
+      "greedy_R": [
+        2388.0,
+        388.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.3263436801626393
+    },
+    {
+      "seed": 12,
+      "gini": 0.5,
+      "jain": 0.5,
+      "mean_R": [
+        1960.6,
+        0.0
+      ],
+      "mean_tasks": [
+        196.06,
+        0.0
+      ],
+      "total_reward": 1960.6,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 13,
+      "gini": 0.5,
+      "jain": 0.5,
+      "mean_R": [
+        1958.9,
+        0.0
+      ],
+      "mean_tasks": [
+        195.89,
+        0.0
+      ],
+      "total_reward": 1958.9,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 14,
+      "gini": 0.49004278292757464,
+      "jain": 0.510056343188912,
+      "mean_R": [
+        1943.85,
+        19.55
+      ],
+      "mean_tasks": [
+        194.09,
+        1.61
+      ],
+      "total_reward": 1963.3999999999999,
+      "top_task_share": 0.9917731221257026,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.49682918374421403
+    },
+    {
+      "seed": 15,
+      "gini": 0.5,
+      "jain": 0.5,
+      "mean_R": [
+        1954.7,
+        0.0
+      ],
+      "mean_tasks": [
+        195.47,
+        0.0
+      ],
+      "total_reward": 1954.7,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 16,
+      "gini": 0.5,
+      "jain": 0.5,
+      "mean_R": [
+        1958.3,
+        0.0
+      ],
+      "mean_tasks": [
+        195.83,
+        0.0
+      ],
+      "total_reward": 1958.3,
+      "top_task_share": 1.0,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 17,
+      "gini": 0.4916259417633883,
+      "jain": 0.5084441730868756,
+      "mean_R": [
+        1947.95,
+        16.45
+      ],
+      "mean_tasks": [
+        194.73,
+        1.57
+      ],
+      "total_reward": 1964.4,
+      "top_task_share": 0.9920020376974019,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 18,
+      "gini": 0.4920689023645762,
+      "jain": 0.507993991905206,
+      "mean_R": [
+        1950.09,
+        15.59
+      ],
+      "mean_tasks": [
+        194.76,
+        1.3
+      ],
+      "total_reward": 1965.6799999999998,
+      "top_task_share": 0.9933693767214118,
+      "greedy_R": [
+        2000.0,
+        0.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.5
+    },
+    {
+      "seed": 19,
+      "gini": 0.36887144127116933,
+      "jain": 0.6475574363498899,
+      "mean_R": [
+        2326.16,
+        351.06
+      ],
+      "mean_tasks": [
+        194.04,
+        0.1
+      ],
+      "total_reward": 2677.22,
+      "top_task_share": 0.999484907798496,
+      "greedy_R": [
+        2388.0,
+        388.0
+      ],
+      "greedy_tasks": [
+        200,
+        0
+      ],
+      "frozen_eps_gini": 0.3688087224531526
+    }
+  ]
+}

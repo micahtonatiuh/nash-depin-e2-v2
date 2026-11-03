@@ -1,0 +1,36 @@
+{
+ "egalitarian": {
+  "seeds": [
+   0
+  ],
+  "train_gini": [
+   0.12100956115581733
+  ],
+  "frozen_sample_gini": [
+   0.0798
+  ],
+  "frozen_argmax_gini": [
+   0.1058
+  ],
+  "train_gini_median": 0.12100956115581733,
+  "frozen_sample_gini_median": 0.0798,
+  "fair_train": [
+   0
+  ],
+  "fair_frozen_sample": [
+   0
+  ],
+  "total_reward_median": 2641.94,
+  "tasks_per_ep_median": 192.07999999999998,
+  "collisions_median": 5.55,
+  "greedy_tasks": [
+   [
+    200.0,
+    0.0
+   ]
+  ],
+  "control_matches_published": [
+   true
+  ]
+ }
+}
